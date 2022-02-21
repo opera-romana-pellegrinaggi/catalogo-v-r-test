@@ -819,7 +819,7 @@
             "“Roma è la capitale del mondo! In questo luogo si riallaccia l’intera storia del mondo, e io conto di essere nato una seconda volta, d’essere davvero risorto, il giorno in cui ho messo piede a Roma. Le sue bellezze mi hanno sollevato poco a poco fino alla loro altezza.“"
         ],
         "tsr_1": [
-            "",
+            "\u2029",
             "—  Johann Wolfgang von Goethe"
         ]
     },
@@ -3062,7 +3062,7 @@
             "Le Catacombe sono “un mondo segreto che si apre al pellegrino e al turista con tutta la bellezza, la fede e la memoria di tante persone che hanno creduto in Cristo e nella sua parola di speranza”."
         ],
         "tsr_1": [
-            "",
+            "\u2029",
             "(Card. Ravasi)"
         ]
     },
@@ -3411,7 +3411,7 @@
             "ROMA"
         ],
         "tsr_1": [
-            "",
+            "\u2029",
             "MUSEO A CIELO APERTO OVUNQUE SI GUARDI"
         ]
     },
@@ -3431,7 +3431,7 @@
             "ROMA "
         ],
         "tsr_1": [
-            "",
+            "\u2029",
             "UN SALOTTO DA ATTRAVERSARE IN PUNTA DI PIEDI"
         ]
     },
@@ -4033,169 +4033,202 @@
     },
     "story_4146": {
         "tsr_0": [
-            "\ufeffRoma Imperdibile"
+            "\ufeff",
+            "Roma Imperdibile"
         ]
     },
     "story_4993": {
         "tsr_0": [
-            "\ufeffMusei vaticani e Cappella Sistina"
+            "\ufeff",
+            "Musei vaticani e Cappella Sistina"
         ]
     },
     "story_6514": {
         "tsr_0": [
-            "\ufeffResidenza Pontificia di castel gandolfo"
+            "\ufeff",
+            "Residenza Pontificia di castel gandolfo"
         ]
     },
     "story_7249": {
         "tsr_0": [
-            "\ufeffBasilica di san pietro"
+            "\ufeff",
+            "Basilica di san pietro"
         ]
     },
     "story_7993": {
         "tsr_0": [
-            "\ufeffComplesso lateranense"
+            "\ufeff",
+            "Complesso lateranense"
         ]
     },
     "story_9795": {
         "tsr_0": [
-            "\ufeffCombinato Carcer Tullianum & parco",
+            "\ufeff",
+            "Combinato Carcer Tullianum & parco",
             "Archeologico del Colosseo"
         ]
     },
     "story_10592": {
         "tsr_0": [
-            "\ufeffCatacombe di Roma"
+            "\ufeff",
+            "Catacombe di Roma"
         ]
     },
     "story_12017": {
         "tsr_0": [
-            "\ufeffRoma in tasca"
+            "\ufeff",
+            "Roma in tasca"
         ]
     },
     "story_13192": {
         "tsr_0": [
-            "\ufeffROMA INSOLITA per tutte le età"
+            "\ufeff",
+            "ROMA INSOLITA per tutte le età"
         ]
     },
     "story_14364": {
         "tsr_0": [
-            "\ufeffTerra Santa a Roma"
+            "\ufeff",
+            "Terra Santa a Roma"
         ]
     },
     "story_16550": {
         "tsr_0": [
-            "\ufeffRoma Regina Aquarum"
+            "\ufeff",
+            "Roma Regina Aquarum"
         ]
     },
     "story_17235": {
         "tsr_0": [
-            "\ufeffROMA CHE FORMA E INFORMA"
+            "\ufeff",
+            "ROMA CHE FORMA E INFORMA"
         ]
     },
     "story_17790": {
         "tsr_0": [
-            "\ufeffLa Roma degli Obelischi"
+            "\ufeff",
+            "La Roma degli Obelischi"
         ]
     },
     "story_18510": {
         "tsr_0": [
-            "\ufeffRoma Istituzionale"
+            "\ufeff",
+            "Roma Istituzionale"
         ]
     },
     "story_19077": {
         "tsr_0": [
-            "\ufeffQuartiere Ostiense & la Centrale Montemartini"
+            "\ufeff",
+            "Quartiere Ostiense & la Centrale Montemartini"
         ]
     },
     "story_19730": {
         "tsr_0": [
-            "\ufeffOgni targa racconta una storia"
+            "\ufeff",
+            "Ogni targa racconta una storia"
         ]
     },
     "story_20181": {
         "tsr_0": [
-            "\ufeffParco degli Acquedotti"
+            "\ufeff",
+            "Parco degli Acquedotti"
         ]
     },
     "story_20719": {
         "tsr_0": [
-            "\ufeffVilla Borghese: gioca inventa, crea"
+            "\ufeff",
+            "Villa Borghese: gioca inventa, crea"
         ]
     },
     "story_21664": {
         "tsr_0": [
-            "\ufeffSafari d’arte a Roma"
+            "\ufeff",
+            "Safari d’arte a Roma"
         ]
     },
     "story_22235": {
         "tsr_0": [
-            "\ufeffsulle tracce di romolo e remo"
+            "\ufeff",
+            "sulle tracce di romolo e remo"
         ]
     },
     "story_22763": {
         "tsr_0": [
-            "\ufeffLa Villa delle Meraviglie: Villa Torlonia"
+            "\ufeff",
+            "La Villa delle Meraviglie: Villa Torlonia"
         ]
     },
     "story_22956": {
         "tsr_0": [
-            "\ufeffROMA ESCLUSIVA"
+            "\ufeff",
+            "ROMA ESCLUSIVA"
         ]
     },
     "story_23644": {
         "tsr_0": [
-            "\ufeffCARCER Tullianum"
+            "\ufeff",
+            "CARCER Tullianum"
         ]
     },
     "story_23666": {
         "tsr_0": [
-            "\ufeffPalazzo Maffei marescotti"
+            "\ufeff",
+            "Palazzo Maffei marescotti"
         ]
     },
     "story_23688": {
         "tsr_0": [
-            "\ufeffPalazzo Lateranense, la Casa del Vescovo di roma"
+            "\ufeff",
+            "Palazzo Lateranense, la Casa del Vescovo di roma"
         ]
     },
     "story_24254": {
         "tsr_0": [
-            "\ufeffMusei Vaticani & Cappella Sistina - Alba con il Clavigero"
+            "\ufeff",
+            "Musei Vaticani & Cappella Sistina - Alba con il Clavigero"
         ]
     },
     "story_24276": {
         "tsr_0": [
-            "\ufeffMusei vaticani & Cappella Sistina - Apertuna in notturna con degustazione"
+            "\ufeff",
+            "Musei vaticani & Cappella Sistina - Apertuna in notturna con degustazione"
         ]
     },
     "story_25164": {
         "tsr_0": [
-            "\ufeffPalazzo Apostolico & Ville Pontifice di Castel gandolfo",
+            "\ufeff",
+            "Palazzo Apostolico & Ville Pontifice di Castel gandolfo",
             " a porte chiuse"
         ]
     },
     "story_25186": {
         "tsr_0": [
-            "\ufeffCatacombe di roma"
+            "\ufeff",
+            "Catacombe di roma"
         ]
     },
     "story_25208": {
         "tsr_0": [
-            "\ufeffBasilica di santa maria in via Lata"
+            "\ufeff",
+            "Basilica di santa maria in via Lata"
         ]
     },
     "story_25230": {
         "tsr_0": [
-            "\ufeffOpen Bus in esclusiva"
+            "\ufeff",
+            "Open Bus in esclusiva"
         ]
     },
     "story_25401": {
         "tsr_0": [
-            "\ufeffROMA ACCOGLIENTE"
+            "\ufeff",
+            "ROMA ACCOGLIENTE"
         ]
     },
     "story_25969": {
         "tsr_0": [
-            "\ufeffcosa offriamo"
+            "\ufeff",
+            "cosa offriamo"
         ]
     },
     "story_35637": {
