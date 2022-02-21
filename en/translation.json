@@ -1,709 +1,605 @@
 {
     "story_1452": {
-        "par_0": {
-            "tsr_0": "COVER PAGE"
-        },
-        "tsr_0": "COVER PAGE"
+        "tsr_0": [
+            "COVER PAGE"
+        ]
     },
     "story_4249": {
-        "par_0": {
-            "tsr_0": "VATICAN MUSEUMS"
-        },
-        "tsr_0": "VATICAN MUSEUMS"
+        "tsr_0": [
+            "VATICAN MUSEUMS"
+        ]
     },
     "story_4271": {
-        "par_0": {
-            "tsr_0": "& SISTINE CHAPEL"
-        },
-        "tsr_0": "& SISTINE CHAPEL"
+        "tsr_0": [
+            "& SISTINE CHAPEL"
+        ]
     },
     "story_4293": {
-        "par_0": {
-            "tsr_0": "You will be surprised by the cultural treasures that can be found in the Vatican Museums, which have always been considered one of the most important museum institutions in the world. Not only can you visit the exclusive art collections, archaeological artefacts, and items of ethnographic interest, but you can also visit some of the more significant areas of the Apostolic Palaces which contain some of the most famous artistic masterpieces of all times and some of the greatest treasures of the past."
-        },
-        "tsr_0": "You will be surprised by the cultural treasures that can be found in the Vatican Museums, which have always been considered one of the most important museum institutions in the world. Not only can you visit the exclusive art collections, archaeological artefacts, and items of ethnographic interest, but you can also visit some of the more significant areas of the Apostolic Palaces which contain some of the most famous artistic masterpieces of all times and some of the greatest treasures of the past."
+        "tsr_0": [
+            "You will be surprised by the cultural treasures that can be found in the Vatican Museums, which have always been considered one of the most important museum institutions in the world. Not only can you visit the exclusive art collections, archaeological artefacts, and items of ethnographic interest, but you can also visit some of the more significant areas of the Apostolic Palaces which contain some of the most famous artistic masterpieces of all times and some of the greatest treasures of the past."
+        ]
     },
     "story_4323": {
-        "par_0": {
-            "tsr_0": "Availability"
-        },
-        "tsr_0": "Availability"
+        "tsr_0": [
+            "Availability"
+        ]
     },
     "story_4345": {
-        "par_0": {
-            "tsr_0": "From Monday to Saturday"
-        },
-        "tsr_0": "From Monday to Saturday"
+        "tsr_0": [
+            "From Monday to Saturday"
+        ]
     },
     "story_4367": {
-        "par_0": {
-            "tsr_0": "Friday and Saturday evening\nfrom April to October"
-        },
         "par_1": {
             "tsr_0": "from April to October"
         },
-        "tsr_0": "Friday and Saturday evening\nfrom April to October"
+        "tsr_0": [
+            "Friday and Saturday evening"
+        ]
     },
     "story_4389": {
         "par_0": {
             "tsr_0": "Included in your visit"
         },
-        "tsr_0": "Included in your visit"
+        "tsr_0": [
+            "Included in your visit"
+        ]
     },
     "story_4411": {
         "par_0": {
             "tsr_0": "Enrich your experience"
         },
-        "tsr_0": "Enrich your experience"
+        "tsr_0": [
+            "Enrich your experience"
+        ]
     },
     "story_4433": {
         "par_0": {
             "tsr_0": "Length"
         },
-        "tsr_0": "Length"
+        "tsr_0": [
+            "Duration"
+        ]
     },
     "story_4455": {
         "par_0": {
             "tsr_0": "about 2 hours"
         },
-        "tsr_0": "about 2 hours"
+        "tsr_0": [
+            "about 2 hours"
+        ]
     },
     "story_4608": {
         "par_0": {
             "tsr_0": "ITINERARY"
         },
-        "tsr_0": "ITINERARY"
+        "tsr_0": [
+            "ITINERARY"
+        ]
     },
     "story_4856": {
         "par_0": {
             "tsr_0": "RECOMMENDED"
         },
-        "tsr_0": "RECOMMENDED"
+        "tsr_0": [
+            "RECOMMENDED"
+        ]
     },
     "story_4630": {
         "par_0": {
             "tsr_0": "The Pinecone Courtyard"
         },
-        "tsr_0": "The Pinecone Courtyard"
+        "tsr_0": [
+            "The Pinecone Courtyard"
+        ]
     },
     "story_4654": {
         "par_0": {
             "tsr_0": "Pio Clementino Museum"
         },
-        "tsr_0": "Pio Clementino Museum"
+        "tsr_0": [
+            "Pio Clementino Museum"
+        ]
     },
     "story_4721": {
         "par_0": {
             "tsr_0": "Galleries"
         },
-        "tsr_0": "Galleries"
+        "tsr_0": [
+            "Galleries"
+        ]
     },
     "story_4766": {
         "par_0": {
             "tsr_0": "Raphael Rooms"
         },
-        "tsr_0": "Raphael Rooms"
+        "tsr_0": [
+            "Raphael Rooms"
+        ]
     },
     "story_4811": {
         "par_0": {
             "tsr_0": "Sistine Chapel"
         },
-        "tsr_0": "Sistine Chapel"
+        "tsr_0": [
+            "Sistine Chapel"
+        ]
     },
     "story_5050": {
         "par_0": {
             "tsr_0": "GARDENS"
         },
-        "tsr_0": "GARDENS"
+        "tsr_0": [
+            "GARDENS"
+        ]
     },
     "story_5072": {
         "par_0": {
             "tsr_0": "VATICAN"
         },
-        "tsr_0": "VATICAN"
+        "tsr_0": [
+            "VATICAN"
+        ]
     },
     "story_5094": {
         "par_0": {
             "tsr_0": "The Vatican Gardens occupy about two thirds of the surface area of Vatican City. The Popes have come to relax and meditate here since the year 1279 AD. You can admire the natural beauty and architectural wonders of the Vatican Gardens with a guided visit. Or, you can choose to have your visit in an unprecedented and sustainable fashion: on board a panoramic minibus where the silence of the \"green heart\" of the Vatican will permeate an evocative tour along paths of art, nature, and faith."
-        },
-        "tsr_0": "The Vatican Gardens occupy about two thirds of the surface area of Vatican City. The Popes have come to relax and meditate here since the year 1279 AD. You can admire the natural beauty and architectural wonders of the Vatican Gardens with a guided visit. Or, you can choose to have your visit in an unprecedented and sustainable fashion: on board a panoramic minibus where the silence of the \"green heart\" of the Vatican will permeate an evocative tour along paths of art, nature, and faith."
+        }
     },
     "story_5123": {
         "par_0": {
             "tsr_0": "Availability"
-        },
-        "tsr_0": "Availability"
+        }
     },
     "story_5145": {
         "par_0": {
             "tsr_0": "From Monday to Saturday"
-        },
-        "tsr_0": "From Monday to Saturday"
+        }
     },
     "story_5167": {
         "par_0": {
             "tsr_0": "Included in your visit"
-        },
-        "tsr_0": "Included in your visit"
+        }
     },
     "story_5189": {
         "par_0": {
             "tsr_0": "Enrich your experience"
-        },
-        "tsr_0": "Enrich your experience"
+        }
     },
     "story_5211": {
         "par_0": {
             "tsr_0": "Length"
-        },
-        "tsr_0": "Length"
+        }
     },
     "story_5233": {
         "par_0": {
             "tsr_0": "starting at 1 hour"
-        },
-        "tsr_0": "starting at 1 hour"
+        }
     },
     "story_5326": {
         "par_0": {
             "tsr_0": "Reservations required"
-        },
-        "tsr_0": "Reservations required"
+        }
     },
     "story_4522": {
         "par_0": {
             "tsr_0": "Reservations required"
-        },
-        "tsr_0": "Reservations required"
+        }
     },
     "story_5386": {
         "par_0": {
             "tsr_0": "ITINERARY"
-        },
-        "tsr_0": "ITINERARY"
+        }
     },
     "story_5408": {
         "par_0": {
             "tsr_0": "RECOMMENDED"
-        },
-        "tsr_0": "RECOMMENDED"
+        }
     },
     "story_5430": {
         "par_0": {
             "tsr_0": "Pius IV Villa"
-        },
-        "tsr_0": "Pius IV Villa"
+        }
     },
     "story_5454": {
         "par_0": {
             "tsr_0": "The Fountain of the Eagle"
-        },
-        "tsr_0": "The Fountain of the Eagle"
+        }
     },
     "story_5521": {
         "par_0": {
             "tsr_0": "Rose garden"
-        },
-        "tsr_0": "Rose garden"
+        }
     },
     "story_5566": {
         "par_0": {
             "tsr_0": "Lourdes Grotto"
-        },
-        "tsr_0": "Lourdes Grotto"
+        }
     },
     "story_5611": {
         "par_0": {
             "tsr_0": "Italian style Gardens"
-        },
-        "tsr_0": "Italian style Gardens"
+        }
     },
     "story_5834": {
         "par_0": {
             "tsr_0": "PAPAL RESIDENCE "
-        },
-        "tsr_0": "PAPAL RESIDENCE "
+        }
     },
     "story_5856": {
         "par_0": {
             "tsr_0": "OF CASTEL GANDOLFO"
-        },
-        "tsr_0": "OF CASTEL GANDOLFO"
+        }
     },
     "story_5878": {
         "par_0": {
             "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": "Admire the Apostolic Palace, which for centuries was used as a summer residence of the Popes, and is now a museum. Take a journey through time as you admire the paintings, the relics, the liturgical garb and the uniforms."
         }
     },
     "story_6244": {
         "par_0": {
             "tsr_0": "ITINERARY"
-        },
-        "tsr_0": "ITINERARY"
+        }
     },
     "story_6383": {
         "par_0": {
             "tsr_0": "RECOMMENDED"
-        },
-        "tsr_0": "RECOMMENDED"
+        }
     },
     "story_6266": {
         "par_0": {
             "tsr_0": "Apostolic Palace"
-        },
-        "tsr_0": "Apostolic Palace"
+        }
     },
     "story_6290": {
         "par_0": {
             "tsr_0": "Villa Barberini Gardens"
-        },
-        "tsr_0": "Villa Barberini Gardens"
+        }
     },
     "story_6313": {
         "par_0": {
             "tsr_0": "Roman Amphitheater"
-        },
-        "tsr_0": "Roman Amphitheater"
+        }
     },
     "story_6336": {
         "par_0": {
             "tsr_0": "Belvedere Gardens"
-        },
-        "tsr_0": "Belvedere Gardens"
+        }
     },
     "story_6359": {
         "par_0": {
             "tsr_0": "Magnolia Garden"
-        },
-        "tsr_0": "Magnolia Garden"
+        }
     },
     "story_6570": {
         "par_0": {
             "tsr_0": "BASILICA"
-        },
-        "tsr_0": "BASILICA"
+        }
     },
     "story_6592": {
         "par_0": {
             "tsr_0": "OF SAINT PETER"
-        },
-        "tsr_0": "OF SAINT PETER"
+        }
     },
     "story_6614": {
         "par_0": {
             "tsr_0": "The magnificent 18th century façade by Carlo Maderno and the Colonnade by Bernini symbolically embrace pilgrims arriving in the Eternal City. The embrace of Saint Peter's Basilica welcomes you for your visit as you come and discover the endless history of faith and charitable works.\n"
         },
-        "par_1": {
-            "tsr_0": "Admire not only the magnificence of the building and the beauty of the artwork, but come follow along a path of faith and spirituality. As you walk through the naves of the Basilica, stop to visit the side chapels and listen to the Gospel message that the works of art convey. As for example Michelangelo's Pietà, which not only is a masterpiece of all time, but also assists us in contemplating the Paschal mystery.\n"
-        },
-        "tsr_0": "The magnificent 18th century façade by Carlo Maderno and the Colonnade by Bernini symbolically embrace pilgrims arriving in the Eternal City. The embrace of Saint Peter's Basilica welcomes you for your visit as you come and discover the endless history of faith and charitable works.\n",
-        "tsr_1": "Admire not only the magnificence of the building and the beauty of the artwork, but come follow along a path of faith and spirituality. As you walk through the naves of the Basilica, stop to visit the side chapels and listen to the Gospel message that the works of art convey. As for example Michelangelo's Pietà, which not only is a masterpiece of all time, but also assists us in contemplating the Paschal mystery.\n"
+        "tsr_0": "The magnificent 18th century façade by Carlo Maderno and the Colonnade by Bernini symbolically embrace pilgrims arriving in the Eternal City. The embrace of Saint Peter's Basilica welcomes you for your visit as you come and discover the endless history of faith and charitable works.\n"
     },
     "story_6929": {
         "par_0": {
             "tsr_0": "ITINERARY"
-        },
-        "tsr_0": "ITINERARY"
+        }
     },
     "story_6951": {
         "par_0": {
             "tsr_0": "RECOMMENDED"
-        },
-        "tsr_0": "RECOMMENDED"
+        }
     },
     "story_6973": {
         "par_0": {
             "tsr_0": "Michelangelo's Pietà"
-        },
-        "tsr_0": "Michelangelo's Pietà"
+        }
     },
     "story_6997": {
         "par_0": {
             "tsr_0": "Bernini's Baldachin"
-        },
-        "tsr_0": "Bernini's Baldachin"
+        }
     },
     "story_7064": {
         "par_0": {
             "tsr_0": "Cathedra of Saint Peter"
-        },
-        "tsr_0": "Cathedra of Saint Peter"
+        }
     },
     "story_7109": {
         "par_0": {
             "tsr_0": "Tombs of the Popes"
-        },
-        "tsr_0": "Tombs of the Popes"
+        }
     },
     "story_7306": {
         "par_0": {
             "tsr_0": "COMPLEX "
-        },
-        "tsr_0": "COMPLEX "
+        }
     },
     "story_7328": {
         "par_0": {
             "tsr_0": "LATERAN"
-        },
-        "tsr_0": "LATERAN"
+        }
     },
     "story_7350": {
         "par_0": {
             "tsr_0": "The Basilica of Saint John Lateran, defined “Mater et Caput” of all the churches in Rome and in the world, is the Cathedral of Rome and the episcopal seat of the Holy Father.\n"
         },
-        "par_1": {
-            "tsr_0": "You'll discover the Lateran Complex, which comprehends more than one place of great interest: the Basilica and the Cloister, the Baptistery, and the Holy Stairs with the “Sancta Sanctorum” Papal Chapel.\n"
-        },
         "par_2": {
             "tsr_0": "Discovery the beauty and the history of one of the most evocative places in Rome!"
         },
-        "tsr_2": "Discovery the beauty and the history of one of the most evocative places in Rome!",
-        "tsr_0": "The Basilica of Saint John Lateran, defined “Mater et Caput” of all the churches in Rome and in the world, is the Cathedral of Rome and the episcopal seat of the Holy Father.\n",
-        "tsr_1": "You'll discover the Lateran Complex, which comprehends more than one place of great interest: the Basilica and the Cloister, the Baptistery, and the Holy Stairs with the “Sancta Sanctorum” Papal Chapel.\n"
+        "tsr_0": "The Basilica of Saint John Lateran, defined “Mater et Caput” of all the churches in Rome and in the world, is the Cathedral of Rome and the episcopal seat of the Holy Father.\n"
     },
     "story_7372": {
         "par_0": {
             "tsr_0": "Enrich your experience"
-        },
-        "tsr_0": "Enrich your experience"
+        }
     },
     "story_7611": {
         "par_0": {
             "tsr_0": "ITINERARY"
-        },
-        "tsr_0": "ITINERARY"
+        }
     },
     "story_7633": {
         "par_0": {
             "tsr_0": "RECOMMENDED"
-        },
-        "tsr_0": "RECOMMENDED"
+        }
     },
     "story_7655": {
         "par_0": {
             "tsr_0": "Basilica"
-        },
-        "tsr_0": "Basilica"
+        }
     },
     "story_7678": {
         "par_0": {
             "tsr_0": "Cloister"
-        },
-        "tsr_0": "Cloister"
+        }
     },
     "story_7745": {
         "par_0": {
             "tsr_0": "Museum of the Treasury"
-        },
-        "tsr_0": "Museum of the Treasury"
+        }
     },
     "story_7790": {
         "par_0": {
             "tsr_0": "Baptistery"
-        },
-        "tsr_0": "Baptistery"
+        }
     },
     "story_7835": {
         "par_0": {
             "tsr_0": "Holy Stairs\nand Holy of Holies"
         },
-        "par_1": {
-            "tsr_0": "and Holy of Holies"
-        },
         "tsr_0": "Holy Stairs\nand Holy of Holies"
     },
     "story_8070": {
-        "par_0": {
-            "tsr_0": "BASILICA"
-        },
         "tsr_0": "BASILICA"
     },
     "story_8092": {
-        "par_0": {
-            "tsr_0": "OF SANTA MARIA IN VIA LATA"
-        },
         "tsr_0": "OF SANTA MARIA IN VIA LATA"
     },
     "story_8114": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "par_1": {
             "tsr_0": ""
-        },
-        "par_2": {
-            "tsr_0": "In the crypt, remains of a large Roman period edifice are still visible; in the 7th century, it was transformed into a place of worship."
         }
     },
     "story_8136": {
         "par_0": {
             "tsr_0": "Underground Crypt"
-        },
-        "tsr_0": "Underground Crypt"
+        }
     },
     "story_8454": {
         "par_0": {
             "tsr_0": "CUSTOMIZE YOUR ITINERARY "
-        },
-        "tsr_0": "CUSTOMIZE YOUR ITINERARY "
+        }
     },
     "story_8476": {
         "par_0": {
             "tsr_0": "OF UNDERGROUND ROME WITH…"
-        },
-        "tsr_0": "OF UNDERGROUND ROME WITH…"
+        }
     },
     "story_8499": {
         "par_0": {
             "tsr_0": "Carcer Tullianum"
-        },
-        "tsr_0": "Carcer Tullianum"
+        }
     },
     "story_8521": {
         "par_0": {
             "tsr_0": "Catacombs of Rome"
-        },
-        "tsr_0": "Catacombs of Rome"
+        }
     },
     "story_8732": {
         "par_0": {
             "tsr_0": "CARCER "
-        },
-        "tsr_0": "CARCER "
+        }
     },
     "story_8754": {
         "par_0": {
             "tsr_0": "TULLIANUM"
-        },
-        "tsr_0": "TULLIANUM"
+        }
     },
     "story_8776": {
         "par_0": {
             "tsr_0": "The Carcer Tullianum is one of the most fascinating archeological monuments from the era of the Roman republic. It contains a wealth of art, archeology and history. It has also become a place of Christian worship, and is situated beneath the church of Saint Joseph of the Carpenters. And seeing that it faces the Roman Forum, it offers one of the most evocative views of ancient Rome. With the assistance of some of the most recent technologies, you will discover the place where, according to tradition, Saint Peter was imprisoned."
-        },
-        "tsr_0": "The Carcer Tullianum is one of the most fascinating archeological monuments from the era of the Roman republic. It contains a wealth of art, archeology and history. It has also become a place of Christian worship, and is situated beneath the church of Saint Joseph of the Carpenters. And seeing that it faces the Roman Forum, it offers one of the most evocative views of ancient Rome. With the assistance of some of the most recent technologies, you will discover the place where, according to tradition, Saint Peter was imprisoned."
+        }
     },
     "story_9076": {
         "par_0": {
             "tsr_0": "CUSTOMIZE YOUR ITINERARY "
-        },
-        "tsr_0": "CUSTOMIZE YOUR ITINERARY "
+        }
     },
     "story_9098": {
         "par_0": {
             "tsr_0": "OF UNDERGROUND ROME WITH…"
-        },
-        "tsr_0": "OF UNDERGROUND ROME WITH…"
+        }
     },
     "story_9121": {
         "par_0": {
             "tsr_0": "Basilica Santa Maria in Via Lata"
-        },
-        "tsr_0": "Basilica Santa Maria in Via Lata"
+        }
     },
     "story_9144": {
         "par_0": {
             "tsr_0": "Catacombs of Rome"
-        },
-        "tsr_0": "Catacombs of Rome"
+        }
     },
     "story_9357": {
         "par_0": {
             "tsr_0": "CARCER TULLIANUM"
-        },
-        "tsr_0": "CARCER TULLIANUM"
+        }
     },
     "story_9379": {
         "par_0": {
             "tsr_0": "& COLOSSEUM ARCHAEOLOGICAL PARK COMBO"
-        },
-        "tsr_0": "& COLOSSEUM ARCHAEOLOGICAL PARK COMBO"
+        }
     },
     "story_9401": {
         "par_0": {
             "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": "Carcer Tullianum: the maximum security prison of ancient Rome where enemies of state were imprisoned; Colosseum: where cruel games of Imperial Rome were held; Roman Forum: the social, commercial and religious hub of ancient Rome from the first pages of its history; Palatine Hill, place where this city was born around the middle of the eighth century BC. "
         }
     },
     "story_9427": {
         "par_0": {
             "tsr_0": "Priority entrance"
-        },
-        "tsr_0": "Priority entrance"
+        }
     },
     "story_4545": {
         "par_0": {
             "tsr_0": "Priority entrance"
-        },
-        "tsr_0": "Priority entrance"
+        }
     },
     "story_5348": {
         "par_0": {
             "tsr_0": "Guided Visit Vatican Museums"
-        },
-        "tsr_0": "Guided Visit Vatican Museums"
+        }
     },
     "story_6715": {
         "par_0": {
             "tsr_0": "Guided visit Vatican Museums"
-        },
-        "tsr_0": "Guided visit Vatican Museums"
+        }
     },
     "story_9852": {
         "par_0": {
             "tsr_0": "CATACOMBS "
-        },
-        "tsr_0": "CATACOMBS "
+        }
     },
     "story_9874": {
         "par_0": {
             "tsr_0": "OF ROME"
-        },
-        "tsr_0": "OF ROME"
+        }
     },
     "story_9896": {
         "par_0": {
             "tsr_0": "The Catacombs of Rome are a network of tunnels carved out of tuff, at times on several levels. As you progress through this network of corridors, rooms and underground halls, you will be inevitably taken in not only by evocative scenes both from the Bible and from every day life in Rome, but also by a world of symbols, some of which are painted as frescoes, others which are carved into the stone as graffiti."
-        },
-        "tsr_0": "The Catacombs of Rome are a network of tunnels carved out of tuff, at times on several levels. As you progress through this network of corridors, rooms and underground halls, you will be inevitably taken in not only by evocative scenes both from the Bible and from every day life in Rome, but also by a world of symbols, some of which are painted as frescoes, others which are carved into the stone as graffiti."
+        }
     },
     "story_9926": {
         "par_0": {
             "tsr_0": "Availability"
-        },
-        "tsr_0": "Availability"
+        }
     },
     "story_9948": {
         "par_0": {
             "tsr_0": "Every day"
-        },
-        "tsr_0": "Every day"
+        }
     },
     "story_9970": {
         "par_0": {
             "tsr_0": "Included in your visit"
-        },
-        "tsr_0": "Included in your visit"
+        }
     },
     "story_9992": {
         "par_0": {
             "tsr_0": "Length"
-        },
-        "tsr_0": "Length"
+        }
     },
     "story_10014": {
         "par_0": {
             "tsr_0": "about 1 hour"
-        },
-        "tsr_0": "about 1 hour"
+        }
     },
     "story_10036": {
         "par_0": {
             "tsr_0": "Enrich your experience"
-        },
-        "tsr_0": "Enrich your experience"
+        }
     },
     "story_10082": {
         "par_0": {
             "tsr_0": "Vatican&Rome Travel Card"
-        },
-        "tsr_0": "Vatican&Rome Travel Card"
+        }
     },
     "story_10104": {
         "par_0": {
             "tsr_0": "Lateran complex"
-        },
-        "tsr_0": "Lateran complex"
+        }
     },
     "story_10141": {
         "par_0": {
             "tsr_0": "CUSTOMIZE YOUR ITINERARY "
-        },
-        "tsr_0": "CUSTOMIZE YOUR ITINERARY "
+        }
     },
     "story_10163": {
         "par_0": {
             "tsr_0": "OF UNDERGROUND ROME WITH…"
-        },
-        "tsr_0": "OF UNDERGROUND ROME WITH…"
+        }
     },
     "story_10185": {
         "par_0": {
             "tsr_0": "Carcer Tullianum"
-        },
-        "tsr_0": "Carcer Tullianum"
+        }
     },
     "story_10208": {
         "par_0": {
             "tsr_0": "Basilica Santa Maria in Via Lata"
-        },
-        "tsr_0": "Basilica Santa Maria in Via Lata"
+        }
     },
     "story_11502": {
         "par_0": {
             "tsr_0": "OPEN BUS"
-        },
-        "tsr_0": "OPEN BUS"
+        }
     },
     "story_11524": {
         "par_0": {
             "tsr_0": "VATICAN&ROME"
-        },
-        "tsr_0": "VATICAN&ROME"
+        }
     },
     "story_11546": {
         "par_0": {
             "tsr_0": "The city of Rome is an open air museum, which you can explore in relaxation while you take in the amazing view, on board the Vatican&Rome Open Bus.\n"
         },
-        "par_1": {
-            "tsr_0": "An authentic journey into the heart of the City. You'll be able to hop on and off at any of the stops along the way, strategically placed in the most interesting areas of the city. A multi-language audio guide will assist in enriching your knowledge of Rome's history and of its wonders."
-        },
-        "tsr_0": "The city of Rome is an open air museum, which you can explore in relaxation while you take in the amazing view, on board the Vatican&Rome Open Bus.\n",
-        "tsr_1": "An authentic journey into the heart of the City. You'll be able to hop on and off at any of the stops along the way, strategically placed in the most interesting areas of the city. A multi-language audio guide will assist in enriching your knowledge of Rome's history and of its wonders."
+        "tsr_0": "The city of Rome is an open air museum, which you can explore in relaxation while you take in the amazing view, on board the Vatican&Rome Open Bus.\n"
     },
     "story_11568": {
         "par_0": {
             "tsr_0": "Included in your visit"
-        },
-        "tsr_0": "Included in your visit"
+        }
     },
     "story_11597": {
         "par_0": {
             "tsr_0": "Availability"
-        },
-        "tsr_0": "Availability"
+        }
     },
     "story_11619": {
         "par_0": {
             "tsr_0": "Every day"
-        },
-        "tsr_0": "Every day"
+        }
     },
     "story_11648": {
         "par_0": {
             "tsr_0": "Length"
-        },
-        "tsr_0": "Length"
+        }
     },
     "story_11670": {
         "par_0": {
             "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
         }
     },
     "story_5964": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_5986": {
         "par_0": {
             "tsr_0": ""
         }
@@ -713,17 +609,7 @@
             "tsr_0": ""
         }
     },
-    "story_6030": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_6052": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6074": {
         "par_0": {
             "tsr_0": ""
         }
@@ -733,17 +619,7 @@
             "tsr_0": ""
         }
     },
-    "story_6744": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_6766": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6788": {
         "par_0": {
             "tsr_0": ""
         }
@@ -753,17 +629,7 @@
             "tsr_0": ""
         }
     },
-    "story_6832": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_6854": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6877": {
         "par_0": {
             "tsr_0": ""
         }
@@ -773,17 +639,7 @@
             "tsr_0": ""
         }
     },
-    "story_7479": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_7501": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_7523": {
         "par_0": {
             "tsr_0": ""
         }
@@ -793,17 +649,7 @@
             "tsr_0": ""
         }
     },
-    "story_7568": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_8284": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8306": {
         "par_0": {
             "tsr_0": ""
         }
@@ -813,17 +659,7 @@
             "tsr_0": ""
         }
     },
-    "story_8350": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_8372": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8394": {
         "par_0": {
             "tsr_0": ""
         }
@@ -833,17 +669,7 @@
             "tsr_0": ""
         }
     },
-    "story_8842": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_8914": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8936": {
         "par_0": {
             "tsr_0": ""
         }
@@ -853,17 +679,7 @@
             "tsr_0": ""
         }
     },
-    "story_8980": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_9002": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9025": {
         "par_0": {
             "tsr_0": ""
         }
@@ -873,27 +689,12 @@
             "tsr_0": ""
         }
     },
-    "story_9521": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_9543": {
         "par_0": {
             "tsr_0": ""
         }
     },
-    "story_9565": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_9587": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9609": {
         "par_0": {
             "tsr_0": ""
         }
@@ -904,15 +705,7 @@
         }
     },
     "story_1751": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_1773": {
-        "par_0": {
             "tsr_0": ""
         }
     },
@@ -921,15 +714,9 @@
             "tsr_0": ""
         }
     },
-    "story_4053": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_4075": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_4016": {
@@ -938,30 +725,16 @@
         }
     },
     "story_4098": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "par_2": {
             "tsr_0": ""
         }
     },
     "story_1525": {
         "par_0": {
-            "tsr_0": "",
             "tsr_2": ""
         }
     },
-    "story_11929": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_11951": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11892": {
         "par_0": {
             "tsr_0": ""
         }
@@ -972,22 +745,11 @@
         }
     },
     "story_12211": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "par_1": {
-            "tsr_0": ""
-        },
-        "par_2": {
             "tsr_0": ""
         }
     },
     "story_12492": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12238": {
         "par_0": {
             "tsr_0": ""
         }
@@ -997,17 +759,7 @@
             "tsr_0": ""
         }
     },
-    "story_12282": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_12304": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12326": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1017,17 +769,7 @@
             "tsr_0": ""
         }
     },
-    "story_12373": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_12397": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12421": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1037,17 +779,7 @@
             "tsr_0": ""
         }
     },
-    "story_12469": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_12516": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12744": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1057,17 +789,7 @@
             "tsr_0": ""
         }
     },
-    "story_12539": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_12561": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13063": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1077,17 +799,7 @@
             "tsr_0": ""
         }
     },
-    "story_13125": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_13170": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13147": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1097,25 +809,12 @@
             "tsr_0": ""
         }
     },
-    "story_13293": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_13315": {
         "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
             "tsr_0": ""
         }
     },
     "story_13337": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13359": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1125,17 +824,7 @@
             "tsr_0": ""
         }
     },
-    "story_13403": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_13425": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13447": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1145,17 +834,7 @@
             "tsr_0": ""
         }
     },
-    "story_13491": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_13513": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13535": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1165,17 +844,7 @@
             "tsr_0": ""
         }
     },
-    "story_13915": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_13966": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13988": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1185,17 +854,7 @@
             "tsr_0": ""
         }
     },
-    "story_14032": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_14054": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14076": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1205,17 +864,7 @@
             "tsr_0": ""
         }
     },
-    "story_14143": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_14165": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14187": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1225,17 +874,7 @@
             "tsr_0": ""
         }
     },
-    "story_13604": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_14273": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14442": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1245,17 +884,7 @@
             "tsr_0": ""
         }
     },
-    "story_14486": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_14508": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14530": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1265,17 +894,7 @@
             "tsr_0": ""
         }
     },
-    "story_14574": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_14596": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14618": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1285,17 +904,7 @@
             "tsr_0": ""
         }
     },
-    "story_14662": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_14684": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14707": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1305,17 +914,7 @@
             "tsr_0": ""
         }
     },
-    "story_14988": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_15038": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15060": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1325,17 +924,7 @@
             "tsr_0": ""
         }
     },
-    "story_15104": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_15126": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15148": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1345,17 +934,7 @@
             "tsr_0": ""
         }
     },
-    "story_15218": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_15240": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15285": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1365,17 +944,7 @@
             "tsr_0": ""
         }
     },
-    "story_15307": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_15518": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15540": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1385,17 +954,7 @@
             "tsr_0": ""
         }
     },
-    "story_15585": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_15607": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15629": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1405,17 +964,7 @@
             "tsr_0": ""
         }
     },
-    "story_15673": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_15695": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15717": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1425,17 +974,7 @@
             "tsr_0": ""
         }
     },
-    "story_15761": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_15784": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15830": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1445,17 +984,7 @@
             "tsr_0": ""
         }
     },
-    "story_16117": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_16139": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16161": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1465,17 +994,7 @@
             "tsr_0": ""
         }
     },
-    "story_16207": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_16254": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16276": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1485,17 +1004,7 @@
             "tsr_0": ""
         }
     },
-    "story_16321": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_16343": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16365": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1505,17 +1014,7 @@
             "tsr_0": ""
         }
     },
-    "story_16606": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_16628": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16650": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1525,17 +1024,7 @@
             "tsr_0": ""
         }
     },
-    "story_16695": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_16717": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16739": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1545,17 +1034,7 @@
             "tsr_0": ""
         }
     },
-    "story_16783": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_16805": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16827": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1565,17 +1044,7 @@
             "tsr_0": ""
         }
     },
-    "story_16895": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_17213": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17147": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1586,24 +1055,11 @@
         }
     },
     "story_17114": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "par_1": {
             "tsr_0": ""
         }
     },
-    "story_17191": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_17314": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17336": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1613,17 +1069,7 @@
             "tsr_0": ""
         }
     },
-    "story_17380": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_17402": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17424": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1634,24 +1080,11 @@
         }
     },
     "story_17502": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "par_1": {
             "tsr_0": ""
         }
     },
-    "story_17562": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_17586": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17608": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1661,17 +1094,7 @@
             "tsr_0": ""
         }
     },
-    "story_17653": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_17676": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17698": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1682,24 +1105,11 @@
         }
     },
     "story_17879": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "par_1": {
             "tsr_0": ""
         }
     },
-    "story_17932": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_17954": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17976": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1709,17 +1119,7 @@
             "tsr_0": ""
         }
     },
-    "story_18020": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_18042": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18108": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1729,17 +1129,7 @@
             "tsr_0": ""
         }
     },
-    "story_18476": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_18224": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18248": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1749,17 +1139,7 @@
             "tsr_0": ""
         }
     },
-    "story_18296": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_18320": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18344": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1769,17 +1149,7 @@
             "tsr_0": ""
         }
     },
-    "story_18566": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_18588": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18610": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1790,24 +1160,11 @@
         }
     },
     "story_18668": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "par_1": {
             "tsr_0": ""
         }
     },
-    "story_18690": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_18729": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18753": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1817,17 +1174,7 @@
             "tsr_0": ""
         }
     },
-    "story_18801": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_18825": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18849": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1837,17 +1184,7 @@
             "tsr_0": ""
         }
     },
-    "story_18897": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_19708": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19186": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1857,17 +1194,7 @@
             "tsr_0": ""
         }
     },
-    "story_19230": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_19252": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19274": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1877,17 +1204,7 @@
             "tsr_0": ""
         }
     },
-    "story_19354": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_19376": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19400": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1897,17 +1214,7 @@
             "tsr_0": ""
         }
     },
-    "story_19447": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_19471": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19495": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1917,17 +1224,7 @@
             "tsr_0": ""
         }
     },
-    "story_19543": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_19567": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19592": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1937,17 +1234,7 @@
             "tsr_0": ""
         }
     },
-    "story_19788": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_19810": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19844": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1957,17 +1244,7 @@
             "tsr_0": ""
         }
     },
-    "story_19900": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_19922": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19945": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1977,17 +1254,7 @@
             "tsr_0": ""
         }
     },
-    "story_20019": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_20043": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20067": {
         "par_0": {
             "tsr_0": ""
         }
@@ -1997,17 +1264,7 @@
             "tsr_0": ""
         }
     },
-    "story_20259": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_20308": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20330": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2017,27 +1274,12 @@
             "tsr_0": ""
         }
     },
-    "story_20391": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_20413": {
         "par_0": {
             "tsr_0": ""
         }
     },
-    "story_20435": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_20481": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20775": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2048,24 +1290,11 @@
         }
     },
     "story_20836": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "par_1": {
             "tsr_0": ""
         }
     },
-    "story_20858": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_20895": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21128": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2075,17 +1304,7 @@
             "tsr_0": ""
         }
     },
-    "story_20940": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_20962": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20984": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2095,17 +1314,7 @@
             "tsr_0": ""
         }
     },
-    "story_21151": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_21175": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21198": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2115,17 +1324,7 @@
             "tsr_0": ""
         }
     },
-    "story_21245": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_21269": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21292": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2135,17 +1334,7 @@
             "tsr_0": ""
         }
     },
-    "story_21339": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_21363": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21386": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2155,17 +1344,7 @@
             "tsr_0": ""
         }
     },
-    "story_21433": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_21457": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21480": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2175,17 +1354,7 @@
             "tsr_0": ""
         }
     },
-    "story_21527": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_21551": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21574": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2195,17 +1364,7 @@
             "tsr_0": ""
         }
     },
-    "story_21791": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_21813": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21835": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2215,17 +1374,7 @@
             "tsr_0": ""
         }
     },
-    "story_21893": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_22038": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22060": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2235,17 +1384,7 @@
             "tsr_0": ""
         }
     },
-    "story_22085": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_22108": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10233": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2255,17 +1394,7 @@
             "tsr_0": ""
         }
     },
-    "story_4900": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_4922": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_5684": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2275,17 +1404,7 @@
             "tsr_0": ""
         }
     },
-    "story_6420": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_6442": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_7155": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2295,17 +1414,7 @@
             "tsr_0": ""
         }
     },
-    "story_7900": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_7922": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8559": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2315,17 +1424,7 @@
             "tsr_0": ""
         }
     },
-    "story_9186": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_9208": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9702": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2335,17 +1434,7 @@
             "tsr_0": ""
         }
     },
-    "story_11716": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_11738": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13713": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2355,17 +1444,7 @@
             "tsr_0": ""
         }
     },
-    "story_14297": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_14319": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14844": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2375,17 +1454,7 @@
             "tsr_0": ""
         }
     },
-    "story_15394": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_15416": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16483": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2395,17 +1464,7 @@
             "tsr_0": ""
         }
     },
-    "story_15918": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_15940": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16971": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2415,17 +1474,7 @@
             "tsr_0": ""
         }
     },
-    "story_17723": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_17745": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18153": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2435,17 +1484,7 @@
             "tsr_0": ""
         }
     },
-    "story_18921": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_18965": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18987": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2455,17 +1494,7 @@
             "tsr_0": ""
         }
     },
-    "story_19662": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_20114": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20136": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2475,27 +1504,12 @@
             "tsr_0": ""
         }
     },
-    "story_20526": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_21597": {
         "par_0": {
             "tsr_0": ""
         }
     },
-    "story_21619": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_22132": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22154": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2506,22 +1520,11 @@
         }
     },
     "story_22890": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "par_1": {
-            "tsr_0": ""
-        },
-        "par_2": {
             "tsr_0": ""
         }
     },
     "story_22912": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22843": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2531,25 +1534,14 @@
             "tsr_0": ""
         }
     },
-    "story_23036": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_23058": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23080": {
         "par_0": {
             "tsr_0": ""
         }
     },
     "story_1640": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_2": ""
+            "tsr_0": ""
         }
     },
     "story_25379": {
@@ -2558,24 +1550,11 @@
         }
     },
     "story_25313": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "par_1": {
             "tsr_0": ""
         }
     },
-    "story_25335": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_25357": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25667": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2585,17 +1564,7 @@
             "tsr_0": ""
         }
     },
-    "story_25645": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_25712": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25734": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2605,17 +1574,7 @@
             "tsr_0": ""
         }
     },
-    "story_25802": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_25779": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25486": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2625,17 +1584,7 @@
             "tsr_0": ""
         }
     },
-    "story_25531": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_25554": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25576": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2645,17 +1594,7 @@
             "tsr_0": ""
         }
     },
-    "story_25621": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_27163": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_27186": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2665,17 +1604,7 @@
             "tsr_0": ""
         }
     },
-    "story_27240": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_27265": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_27291": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2683,191 +1612,154 @@
     "story_27313": {
         "par_0": {
             "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
         }
     },
     "story_5730": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_4945": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_6466": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_7201": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_7945": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_8604": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_9232": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_9747": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_10296": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_12618": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_13758": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_14342": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_14889": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_15440": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_15963": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_16528": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_17016": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_17768": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_18199": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_19011": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_19686": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_20159": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_20572": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_21642": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_22178": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_23115": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_23769": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_24336": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_25908": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_1925": {
-        "par_0": {
             "tsr_0": ""
         }
     },
-    "story_1947": {
+    "story_1925": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2877,17 +1769,7 @@
             "tsr_0": ""
         }
     },
-    "story_1991": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_2013": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2035": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2897,17 +1779,7 @@
             "tsr_0": ""
         }
     },
-    "story_2079": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_2101": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2123": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2917,17 +1789,7 @@
             "tsr_0": ""
         }
     },
-    "story_2167": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_2189": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2211": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2937,17 +1799,7 @@
             "tsr_0": ""
         }
     },
-    "story_2255": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_2277": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2299": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2957,17 +1809,7 @@
             "tsr_0": ""
         }
     },
-    "story_2343": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_2365": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2387": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2977,17 +1819,7 @@
             "tsr_0": ""
         }
     },
-    "story_2431": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_2453": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2475": {
         "par_0": {
             "tsr_0": ""
         }
@@ -2997,27 +1829,12 @@
             "tsr_0": ""
         }
     },
-    "story_2519": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_2541": {
         "par_0": {
             "tsr_0": ""
         }
     },
-    "story_2563": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_2585": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2607": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3028,24 +1845,11 @@
         }
     },
     "story_2651": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "par_1": {
             "tsr_0": ""
         }
     },
-    "story_2673": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_2695": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2717": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3055,17 +1859,7 @@
             "tsr_0": ""
         }
     },
-    "story_2783": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_2805": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2827": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3075,17 +1869,7 @@
             "tsr_0": ""
         }
     },
-    "story_3075": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_3119": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23137": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3095,17 +1879,7 @@
             "tsr_0": ""
         }
     },
-    "story_23224": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_10318": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10340": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3115,17 +1889,7 @@
             "tsr_0": ""
         }
     },
-    "story_10384": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_10406": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10428": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3136,15 +1900,7 @@
         }
     },
     "story_10472": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "par_2": {
-            "tsr_0": ""
-        }
-    },
-    "story_18430": {
-        "par_0": {
             "tsr_0": ""
         }
     },
@@ -3153,31 +1909,15 @@
             "tsr_0": ""
         }
     },
-    "story_18453": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_25930": {
         "par_0": {
             "tsr_0": ""
         },
-        "par_1": {
-            "tsr_0": ""
-        },
         "par_2": {
-            "tsr_0": ""
-        },
-        "par_3": {
             "tsr_0": ""
         }
     },
     "story_22292": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22314": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3187,17 +1927,10 @@
             "tsr_0": ""
         },
         "par_1": {
-            "tsr_0": "",
-            "tsr_1": "",
-            "tsr_2": ""
+            "tsr_1": ""
         }
     },
     "story_22360": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22395": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3207,49 +1940,25 @@
             "tsr_0": ""
         }
     },
-    "story_22462": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_22485": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_22707": {
         "par_0": {
             "tsr_0": "",
-            "tsr_1": "",
             "tsr_2": "",
-            "tsr_3": "",
             "tsr_4": "",
-            "tsr_5": "",
             "tsr_6": "",
-            "tsr_7": "",
             "tsr_8": "",
-            "tsr_9": "",
             "tsr_10": "",
-            "tsr_11": "",
             "tsr_13": "",
-            "tsr_15": "",
             "tsr_16": "",
-            "tsr_17": "",
             "tsr_18": ""
         }
     },
-    "story_22511": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_22535": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22559": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3259,17 +1968,7 @@
             "tsr_0": ""
         }
     },
-    "story_22606": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_22629": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22685": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3279,17 +1978,7 @@
             "tsr_0": ""
         }
     },
-    "story_5756": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_10494": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12651": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3299,17 +1988,7 @@
             "tsr_0": ""
         }
     },
-    "story_12676": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_12708": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13780": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3319,17 +1998,7 @@
             "tsr_0": ""
         }
     },
-    "story_20594": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_20616": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20638": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3339,17 +2008,7 @@
             "tsr_0": ""
         }
     },
-    "story_10544": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_20683": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22201": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3361,55 +2020,36 @@
     },
     "story_26099": {
         "par_0": {
-            "tsr_0": "",
             "tsr_1": ""
         }
     },
     "story_26075": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": "",
-            "tsr_2": ""
+            "tsr_1": ""
         },
         "par_1": {
             "tsr_0": "",
-            "tsr_1": "",
             "tsr_2": "",
-            "tsr_3": "",
-            "tsr_4": "",
-            "tsr_5": ""
+            "tsr_4": ""
         },
         "par_3": {
             "tsr_0": "",
-            "tsr_1": "",
             "tsr_2": ""
         }
     },
     "story_26121": {
         "par_0": {
-            "tsr_0": "",
             "tsr_1": "",
-            "tsr_2": "",
             "tsr_3": "",
-            "tsr_4": "",
             "tsr_5": ""
         }
     },
     "story_26144": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "par_1": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_26169": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_26213": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3421,65 +2061,41 @@
     },
     "story_26999": {
         "par_0": {
-            "tsr_0": "",
             "tsr_1": ""
-        },
-        "par_1": {
-            "tsr_0": ""
         }
     },
     "story_26746": {
         "par_0": {
             "tsr_0": "",
-            "tsr_1": "",
             "tsr_2": ""
         }
     },
     "story_26961": {
         "par_0": {
-            "tsr_0": "",
             "tsr_1": ""
-        },
-        "par_1": {
-            "tsr_0": ""
         }
     },
     "story_26353": {
         "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
             "tsr_0": ""
         }
     },
     "story_26375": {
         "par_0": {
             "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
         }
     },
     "story_26397": {
         "par_0": {
             "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
         }
     },
     "story_26465": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_27022": {
-        "par_0": {
             "tsr_0": ""
         }
     },
-    "story_27044": {
+    "story_27022": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3489,17 +2105,7 @@
             "tsr_0": ""
         }
     },
-    "story_26913": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_26698": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_27111": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3507,13 +2113,7 @@
     "story_26509": {
         "par_0": {
             "tsr_0": "",
-            "tsr_1": "",
             "tsr_2": ""
-        }
-    },
-    "story_26532": {
-        "par_0": {
-            "tsr_0": ""
         }
     },
     "story_26554": {
@@ -3523,15 +2123,8 @@
     },
     "story_26592": {
         "par_0": {
-            "tsr_0": "",
             "tsr_1": "",
-            "tsr_2": "",
             "tsr_3": ""
-        }
-    },
-    "story_26615": {
-        "par_0": {
-            "tsr_0": ""
         }
     },
     "story_26637": {
@@ -3541,17 +2134,10 @@
     },
     "story_26851": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": "",
-            "tsr_2": ""
+            "tsr_1": ""
         }
     },
     "story_26784": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_26806": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3561,17 +2147,7 @@
             "tsr_0": ""
         }
     },
-    "story_10691": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_10713": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10824": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3581,17 +2157,7 @@
             "tsr_0": ""
         }
     },
-    "story_10868": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_10890": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10912": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3601,23 +2167,12 @@
             "tsr_0": ""
         }
     },
-    "story_10989": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_11034": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_11072": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11094": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3627,17 +2182,7 @@
             "tsr_0": ""
         }
     },
-    "story_11161": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_11197": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11220": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3647,17 +2192,7 @@
             "tsr_0": ""
         }
     },
-    "story_4968": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_4121": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_1844": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3667,27 +2202,12 @@
             "tsr_0": ""
         }
     },
-    "story_7227": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_7971": {
         "par_0": {
             "tsr_0": ""
         }
     },
-    "story_8632": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_9258": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9773": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3699,21 +2219,10 @@
     },
     "story_11776": {
         "par_0": {
-            "tsr_0": "",
             "tsr_1": ""
         }
     },
-    "story_11802": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_12770": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12796": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3723,17 +2232,7 @@
             "tsr_0": ""
         }
     },
-    "story_12827": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_3923": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23247": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3743,17 +2242,7 @@
             "tsr_0": ""
         }
     },
-    "story_23291": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_23329": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23393": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3763,17 +2252,7 @@
             "tsr_0": ""
         }
     },
-    "story_23438": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_23460": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23482": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3783,17 +2262,7 @@
             "tsr_0": ""
         }
     },
-    "story_23569": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_23592": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23791": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3803,17 +2272,7 @@
             "tsr_0": ""
         }
     },
-    "story_23835": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_23858": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23922": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3823,17 +2282,7 @@
             "tsr_0": ""
         }
     },
-    "story_24004": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_24026": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24048": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3843,17 +2292,7 @@
             "tsr_0": ""
         }
     },
-    "story_24135": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_24157": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24180": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3863,17 +2302,7 @@
             "tsr_0": ""
         }
     },
-    "story_24358": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_24380": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24402": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3883,17 +2312,7 @@
             "tsr_0": ""
         }
     },
-    "story_24502": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_24525": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24548": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3903,17 +2322,7 @@
             "tsr_0": ""
         }
     },
-    "story_24592": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_24616": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24638": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3923,17 +2332,7 @@
             "tsr_0": ""
         }
     },
-    "story_24725": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_24747": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24786": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3943,17 +2342,7 @@
             "tsr_0": ""
         }
     },
-    "story_24830": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_24853": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24893": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3963,17 +2352,7 @@
             "tsr_0": ""
         }
     },
-    "story_24963": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_24985": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25007": {
         "par_0": {
             "tsr_0": ""
         }
@@ -3983,17 +2362,7 @@
             "tsr_0": ""
         }
     },
-    "story_25094": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_25116": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19033": {
         "par_0": {
             "tsr_0": ""
         }
@@ -4003,23 +2372,12 @@
             "tsr_0": ""
         }
     },
-    "story_11322": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_11344": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
+            "tsr_0": ""
         }
     },
     "story_11367": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11389": {
         "par_0": {
             "tsr_0": ""
         }
@@ -4029,17 +2387,7 @@
             "tsr_0": ""
         }
     },
-    "story_4993": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_6514": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_7249": {
         "par_0": {
             "tsr_0": ""
         }
@@ -4050,24 +2398,11 @@
         }
     },
     "story_9795": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "par_1": {
             "tsr_0": ""
         }
     },
-    "story_10592": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_12017": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13192": {
         "par_0": {
             "tsr_0": ""
         }
@@ -4077,17 +2412,7 @@
             "tsr_0": ""
         }
     },
-    "story_16550": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_17235": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17790": {
         "par_0": {
             "tsr_0": ""
         }
@@ -4097,17 +2422,7 @@
             "tsr_0": ""
         }
     },
-    "story_19077": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_19730": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20181": {
         "par_0": {
             "tsr_0": ""
         }
@@ -4117,17 +2432,7 @@
             "tsr_0": ""
         }
     },
-    "story_21664": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_22235": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22763": {
         "par_0": {
             "tsr_0": ""
         }
@@ -4137,17 +2442,7 @@
             "tsr_0": ""
         }
     },
-    "story_23644": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_23666": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23688": {
         "par_0": {
             "tsr_0": ""
         }
@@ -4157,25 +2452,12 @@
             "tsr_0": ""
         }
     },
-    "story_24276": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_25164": {
         "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
             "tsr_0": ""
         }
     },
     "story_25186": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25208": {
         "par_0": {
             "tsr_0": ""
         }
@@ -4185,26 +2467,16 @@
             "tsr_0": ""
         }
     },
-    "story_25401": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_25969": {
         "par_0": {
             "tsr_0": ""
-        }
+        },
+        "tsr_0": [
+            "﻿"
+        ]
     },
     "story_35637": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_35694": {
-        "par_0": {
             "tsr_0": ""
         }
     },
@@ -4212,5 +2484,10 @@
         "par_0": {
             "tsr_0": ""
         }
+    },
+    "story_25401": {
+        "tsr_0": [
+            "﻿"
+        ]
     }
 }
