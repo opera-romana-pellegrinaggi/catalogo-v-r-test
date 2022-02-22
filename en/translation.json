@@ -101,66 +101,40 @@
         ]
     },
     "story_5611": {
-        "par_0": {
-            "tsr_0": "Italian style Gardens"
-        },
         "tsr_0": [
             "Italian style Gardens"
         ]
     },
     "story_6951": {
-        "par_0": {
-            "tsr_0": "RECOMMENDED"
-        },
         "tsr_0": [
             "RECOMMENDED"
         ]
     },
     "story_7790": {
-        "par_0": {
-            "tsr_0": "Baptistery"
-        },
         "tsr_0": [
             "Baptistery"
         ]
     },
     "story_9121": {
-        "par_0": {
-            "tsr_0": "Basilica Santa Maria in Via Lata"
-        },
         "tsr_0": [
             "Basilica Santa Maria in Via Lata"
         ]
     },
     "story_10014": {
-        "par_0": {
-            "tsr_0": "about 1 hour"
-        },
         "tsr_0": [
             "about 1 hour"
         ]
     },
     "story_11670": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "tsr_0": [
             "1 ½ hours",
             "panoramic tour"
         ]
     },
     "story_8958": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "tsr_0": [
             "Included in your visit"
         ]
-    },
-    "story_12260": {
-        "par_0": {
-            "tsr_0": ""
-        }
     },
     "story_13513": {
         "par_0": {
@@ -171,24 +145,11 @@
         ]
     },
     "story_15038": {
-        "par_0": {
-            "tsr_0": ""
-        },
         "tsr_0": [
             "ROME"
         ]
     },
-    "story_16254": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_17447": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18632": {
         "par_0": {
             "tsr_0": ""
         }
@@ -198,17 +159,7 @@
             "tsr_0": ""
         }
     },
-    "story_21175": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_4922": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17745": {
         "par_0": {
             "tsr_0": ""
         }
@@ -218,17 +169,7 @@
             "tsr_0": ""
         }
     },
-    "story_7945": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_19686": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2233": {
         "par_0": {
             "tsr_0": ""
         }
@@ -238,19 +179,9 @@
             "tsr_0": ""
         }
     },
-    "story_22707": {
-        "par_0": {
-            "tsr_2": ""
-        }
-    },
     "story_20616": {
         "par_0": {
             "tsr_0": ""
-        }
-    },
-    "story_26235": {
-        "par_0": {
-            "tsr_1": ""
         }
     },
     "story_26592": {
@@ -258,17 +189,7 @@
             "tsr_3": ""
         }
     },
-    "story_7971": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_24026": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25116": {
         "par_0": {
             "tsr_0": ""
         }
@@ -278,19 +199,9 @@
             "‥"
         ]
     },
-    "story_23666": {
-        "tsr_0": [
-            "‥"
-        ]
-    },
     "story_25401": {
         "tsr_0": [
             "﻿‥"
-        ]
-    },
-    "story_25186": {
-        "tsr_0": [
-            "‥"
         ]
     },
     "story_7249": {
@@ -298,17 +209,7 @@
             "‥"
         ]
     },
-    "story_13192": {
-        "tsr_0": [
-            "‥"
-        ]
-    },
     "story_17790": {
-        "tsr_0": [
-            "‥"
-        ]
-    },
-    "story_21664": {
         "tsr_0": [
             "‥"
         ]
@@ -415,7 +316,8 @@
     },
     "story_7835": {
         "tsr_0": [
-            "Holy Stairs"
+            "Holy Stairs",
+            "and Holy of Holies"
         ]
     },
     "story_8070": {
@@ -466,7 +368,8 @@
     "story_8476": {
         "tsr_0": [
             [
-                "OF UNDERGROUND ROME WITH"
+                "OF UNDERGROUND ROME WITH",
+                "…"
             ]
         ]
     },
@@ -561,6 +464,7 @@
     "story_10163": {
         "tsr_0": [
             [
+                "…",
                 "…"
             ]
         ]
