@@ -1,4216 +1,1296 @@
 {
     "story_1452": {
-        "par_0": {
-            "tsr_0": "COVER PAGE"
-        },
-        "tsr_0": "COVER PAGE"
+        "tsr_0": [
+            "COVER PAGE"
+        ]
     },
     "story_4249": {
-        "par_0": {
-            "tsr_0": "VATICAN MUSEUMS"
-        },
-        "tsr_0": "VATICAN MUSEUMS"
+        "tsr_0": [
+            "VATICAN MUSEUMS"
+        ]
     },
     "story_4271": {
-        "par_0": {
-            "tsr_0": "& SISTINE CHAPEL"
-        },
-        "tsr_0": "& SISTINE CHAPEL"
+        "tsr_0": [
+            "& SISTINE CHAPEL"
+        ]
     },
     "story_4293": {
-        "par_0": {
-            "tsr_0": "You will be surprised by the cultural treasures that can be found in the Vatican Museums, which have always been considered one of the most important museum institutions in the world. Not only can you visit the exclusive art collections, archaeological artefacts, and items of ethnographic interest, but you can also visit some of the more significant areas of the Apostolic Palaces which contain some of the most famous artistic masterpieces of all times and some of the greatest treasures of the past."
-        },
-        "tsr_0": "You will be surprised by the cultural treasures that can be found in the Vatican Museums, which have always been considered one of the most important museum institutions in the world. Not only can you visit the exclusive art collections, archaeological artefacts, and items of ethnographic interest, but you can also visit some of the more significant areas of the Apostolic Palaces which contain some of the most famous artistic masterpieces of all times and some of the greatest treasures of the past."
+        "tsr_0": [
+            "You will be surprised by the cultural treasures that can be found in the Vatican Museums, which have always been considered one of the most important museum institutions in the world. Not only can you visit the exclusive art collections, archaeological artefacts, and items of ethnographic interest, but you can also visit some of the more significant areas of the Apostolic Palaces which contain some of the most famous artistic masterpieces of all times and some of the greatest treasures of the past."
+        ]
     },
     "story_4323": {
-        "par_0": {
-            "tsr_0": "Availability"
-        },
-        "tsr_0": "Availability"
+        "tsr_0": [
+            "Availability"
+        ]
     },
     "story_4345": {
-        "par_0": {
-            "tsr_0": "From Monday to Saturday"
-        },
-        "tsr_0": "From Monday to Saturday"
+        "tsr_0": [
+            "From Monday to Saturday"
+        ]
     },
     "story_4367": {
-        "par_0": {
-            "tsr_0": "Friday and Saturday evening\nfrom April to October"
-        },
-        "par_1": {
-            "tsr_0": "from April to October"
-        },
-        "tsr_0": "Friday and Saturday evening\nfrom April to October"
+        "tsr_0": [
+            "Friday and Saturday evening",
+            "from April to October"
+        ]
     },
     "story_4389": {
-        "par_0": {
-            "tsr_0": "Included in your visit"
-        },
-        "tsr_0": "Included in your visit"
+        "tsr_0": [
+            "Included in your visit"
+        ]
     },
     "story_4411": {
-        "par_0": {
-            "tsr_0": "Enrich your experience"
-        },
-        "tsr_0": "Enrich your experience"
+        "tsr_0": [
+            "Enrich your experience"
+        ]
     },
     "story_4433": {
-        "par_0": {
-            "tsr_0": "Length"
-        },
-        "tsr_0": "Length"
+        "tsr_0": [
+            "Duration"
+        ]
     },
     "story_4455": {
-        "par_0": {
-            "tsr_0": "about 2 hours"
-        },
-        "tsr_0": "about 2 hours"
+        "tsr_0": [
+            "about 2 hours"
+        ]
     },
     "story_4608": {
-        "par_0": {
-            "tsr_0": "ITINERARY"
-        },
-        "tsr_0": "ITINERARY"
+        "tsr_0": [
+            "ITINERARY"
+        ]
     },
     "story_4856": {
-        "par_0": {
-            "tsr_0": "RECOMMENDED"
-        },
-        "tsr_0": "RECOMMENDED"
+        "tsr_0": [
+            "RECOMMENDED"
+        ]
     },
     "story_4630": {
-        "par_0": {
-            "tsr_0": "The Pinecone Courtyard"
-        },
-        "tsr_0": "The Pinecone Courtyard"
+        "tsr_0": [
+            "The Pinecone Courtyard"
+        ]
     },
     "story_4654": {
-        "par_0": {
-            "tsr_0": "Pio Clementino Museum"
-        },
-        "tsr_0": "Pio Clementino Museum"
+        "tsr_0": [
+            "Pio Clementino Museum"
+        ]
     },
     "story_4721": {
-        "par_0": {
-            "tsr_0": "Galleries"
-        },
-        "tsr_0": "Galleries"
+        "tsr_0": [
+            "Galleries"
+        ]
     },
     "story_4766": {
-        "par_0": {
-            "tsr_0": "Raphael Rooms"
-        },
-        "tsr_0": "Raphael Rooms"
+        "tsr_0": [
+            "Raphael Rooms"
+        ]
     },
     "story_4811": {
-        "par_0": {
-            "tsr_0": "Sistine Chapel"
-        },
-        "tsr_0": "Sistine Chapel"
+        "tsr_0": [
+            "Sistine Chapel"
+        ]
     },
     "story_5050": {
-        "par_0": {
-            "tsr_0": "GARDENS"
-        },
-        "tsr_0": "GARDENS"
+        "tsr_0": [
+            "GARDENS"
+        ]
     },
     "story_5072": {
-        "par_0": {
-            "tsr_0": "VATICAN"
-        },
-        "tsr_0": "VATICAN"
-    },
-    "story_5094": {
-        "par_0": {
-            "tsr_0": "The Vatican Gardens occupy about two thirds of the surface area of Vatican City. The Popes have come to relax and meditate here since the year 1279 AD. You can admire the natural beauty and architectural wonders of the Vatican Gardens with a guided visit. Or, you can choose to have your visit in an unprecedented and sustainable fashion: on board a panoramic minibus where the silence of the \"green heart\" of the Vatican will permeate an evocative tour along paths of art, nature, and faith."
-        },
-        "tsr_0": "The Vatican Gardens occupy about two thirds of the surface area of Vatican City. The Popes have come to relax and meditate here since the year 1279 AD. You can admire the natural beauty and architectural wonders of the Vatican Gardens with a guided visit. Or, you can choose to have your visit in an unprecedented and sustainable fashion: on board a panoramic minibus where the silence of the \"green heart\" of the Vatican will permeate an evocative tour along paths of art, nature, and faith."
-    },
-    "story_5123": {
-        "par_0": {
-            "tsr_0": "Availability"
-        },
-        "tsr_0": "Availability"
-    },
-    "story_5145": {
-        "par_0": {
-            "tsr_0": "From Monday to Saturday"
-        },
-        "tsr_0": "From Monday to Saturday"
-    },
-    "story_5167": {
-        "par_0": {
-            "tsr_0": "Included in your visit"
-        },
-        "tsr_0": "Included in your visit"
-    },
-    "story_5189": {
-        "par_0": {
-            "tsr_0": "Enrich your experience"
-        },
-        "tsr_0": "Enrich your experience"
-    },
-    "story_5211": {
-        "par_0": {
-            "tsr_0": "Length"
-        },
-        "tsr_0": "Length"
-    },
-    "story_5233": {
-        "par_0": {
-            "tsr_0": "starting at 1 hour"
-        },
-        "tsr_0": "starting at 1 hour"
-    },
-    "story_5326": {
-        "par_0": {
-            "tsr_0": "Reservations required"
-        },
-        "tsr_0": "Reservations required"
-    },
-    "story_4522": {
-        "par_0": {
-            "tsr_0": "Reservations required"
-        },
-        "tsr_0": "Reservations required"
-    },
-    "story_5386": {
-        "par_0": {
-            "tsr_0": "ITINERARY"
-        },
-        "tsr_0": "ITINERARY"
-    },
-    "story_5408": {
-        "par_0": {
-            "tsr_0": "RECOMMENDED"
-        },
-        "tsr_0": "RECOMMENDED"
-    },
-    "story_5430": {
-        "par_0": {
-            "tsr_0": "Pius IV Villa"
-        },
-        "tsr_0": "Pius IV Villa"
-    },
-    "story_5454": {
-        "par_0": {
-            "tsr_0": "The Fountain of the Eagle"
-        },
-        "tsr_0": "The Fountain of the Eagle"
-    },
-    "story_5521": {
-        "par_0": {
-            "tsr_0": "Rose garden"
-        },
-        "tsr_0": "Rose garden"
-    },
-    "story_5566": {
-        "par_0": {
-            "tsr_0": "Lourdes Grotto"
-        },
-        "tsr_0": "Lourdes Grotto"
+        "tsr_0": [
+            "VATICAN"
+        ]
     },
     "story_5611": {
-        "par_0": {
-            "tsr_0": "Italian style Gardens"
-        },
-        "tsr_0": "Italian style Gardens"
-    },
-    "story_5834": {
-        "par_0": {
-            "tsr_0": "PAPAL RESIDENCE "
-        },
-        "tsr_0": "PAPAL RESIDENCE "
-    },
-    "story_5856": {
-        "par_0": {
-            "tsr_0": "OF CASTEL GANDOLFO"
-        },
-        "tsr_0": "OF CASTEL GANDOLFO"
-    },
-    "story_5878": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": "Admire the Apostolic Palace, which for centuries was used as a summer residence of the Popes, and is now a museum. Take a journey through time as you admire the paintings, the relics, the liturgical garb and the uniforms."
-        }
-    },
-    "story_6244": {
-        "par_0": {
-            "tsr_0": "ITINERARY"
-        },
-        "tsr_0": "ITINERARY"
-    },
-    "story_6383": {
-        "par_0": {
-            "tsr_0": "RECOMMENDED"
-        },
-        "tsr_0": "RECOMMENDED"
-    },
-    "story_6266": {
-        "par_0": {
-            "tsr_0": "Apostolic Palace"
-        },
-        "tsr_0": "Apostolic Palace"
-    },
-    "story_6290": {
-        "par_0": {
-            "tsr_0": "Villa Barberini Gardens"
-        },
-        "tsr_0": "Villa Barberini Gardens"
-    },
-    "story_6313": {
-        "par_0": {
-            "tsr_0": "Roman Amphitheater"
-        },
-        "tsr_0": "Roman Amphitheater"
-    },
-    "story_6336": {
-        "par_0": {
-            "tsr_0": "Belvedere Gardens"
-        },
-        "tsr_0": "Belvedere Gardens"
-    },
-    "story_6359": {
-        "par_0": {
-            "tsr_0": "Magnolia Garden"
-        },
-        "tsr_0": "Magnolia Garden"
-    },
-    "story_6570": {
-        "par_0": {
-            "tsr_0": "BASILICA"
-        },
-        "tsr_0": "BASILICA"
-    },
-    "story_6592": {
-        "par_0": {
-            "tsr_0": "OF SAINT PETER"
-        },
-        "tsr_0": "OF SAINT PETER"
-    },
-    "story_6614": {
-        "par_0": {
-            "tsr_0": "The magnificent 18th century façade by Carlo Maderno and the Colonnade by Bernini symbolically embrace pilgrims arriving in the Eternal City. The embrace of Saint Peter's Basilica welcomes you for your visit as you come and discover the endless history of faith and charitable works.\n"
-        },
-        "par_1": {
-            "tsr_0": "Admire not only the magnificence of the building and the beauty of the artwork, but come follow along a path of faith and spirituality. As you walk through the naves of the Basilica, stop to visit the side chapels and listen to the Gospel message that the works of art convey. As for example Michelangelo's Pietà, which not only is a masterpiece of all time, but also assists us in contemplating the Paschal mystery.\n"
-        },
-        "tsr_0": "The magnificent 18th century façade by Carlo Maderno and the Colonnade by Bernini symbolically embrace pilgrims arriving in the Eternal City. The embrace of Saint Peter's Basilica welcomes you for your visit as you come and discover the endless history of faith and charitable works.\n",
-        "tsr_1": "Admire not only the magnificence of the building and the beauty of the artwork, but come follow along a path of faith and spirituality. As you walk through the naves of the Basilica, stop to visit the side chapels and listen to the Gospel message that the works of art convey. As for example Michelangelo's Pietà, which not only is a masterpiece of all time, but also assists us in contemplating the Paschal mystery.\n"
-    },
-    "story_6929": {
-        "par_0": {
-            "tsr_0": "ITINERARY"
-        },
-        "tsr_0": "ITINERARY"
+        "tsr_0": [
+            "Italian style Gardens"
+        ]
     },
     "story_6951": {
-        "par_0": {
-            "tsr_0": "RECOMMENDED"
-        },
-        "tsr_0": "RECOMMENDED"
-    },
-    "story_6973": {
-        "par_0": {
-            "tsr_0": "Michelangelo's Pietà"
-        },
-        "tsr_0": "Michelangelo's Pietà"
-    },
-    "story_6997": {
-        "par_0": {
-            "tsr_0": "Bernini's Baldachin"
-        },
-        "tsr_0": "Bernini's Baldachin"
-    },
-    "story_7064": {
-        "par_0": {
-            "tsr_0": "Cathedra of Saint Peter"
-        },
-        "tsr_0": "Cathedra of Saint Peter"
-    },
-    "story_7109": {
-        "par_0": {
-            "tsr_0": "Tombs of the Popes"
-        },
-        "tsr_0": "Tombs of the Popes"
-    },
-    "story_7306": {
-        "par_0": {
-            "tsr_0": "COMPLEX "
-        },
-        "tsr_0": "COMPLEX "
-    },
-    "story_7328": {
-        "par_0": {
-            "tsr_0": "LATERAN"
-        },
-        "tsr_0": "LATERAN"
-    },
-    "story_7350": {
-        "par_0": {
-            "tsr_0": "The Basilica of Saint John Lateran, defined “Mater et Caput” of all the churches in Rome and in the world, is the Cathedral of Rome and the episcopal seat of the Holy Father.\n"
-        },
-        "par_1": {
-            "tsr_0": "You'll discover the Lateran Complex, which comprehends more than one place of great interest: the Basilica and the Cloister, the Baptistery, and the Holy Stairs with the “Sancta Sanctorum” Papal Chapel.\n"
-        },
-        "par_2": {
-            "tsr_0": "Discovery the beauty and the history of one of the most evocative places in Rome!"
-        },
-        "tsr_2": "Discovery the beauty and the history of one of the most evocative places in Rome!",
-        "tsr_0": "The Basilica of Saint John Lateran, defined “Mater et Caput” of all the churches in Rome and in the world, is the Cathedral of Rome and the episcopal seat of the Holy Father.\n",
-        "tsr_1": "You'll discover the Lateran Complex, which comprehends more than one place of great interest: the Basilica and the Cloister, the Baptistery, and the Holy Stairs with the “Sancta Sanctorum” Papal Chapel.\n"
-    },
-    "story_7372": {
-        "par_0": {
-            "tsr_0": "Enrich your experience"
-        },
-        "tsr_0": "Enrich your experience"
-    },
-    "story_7611": {
-        "par_0": {
-            "tsr_0": "ITINERARY"
-        },
-        "tsr_0": "ITINERARY"
-    },
-    "story_7633": {
-        "par_0": {
-            "tsr_0": "RECOMMENDED"
-        },
-        "tsr_0": "RECOMMENDED"
-    },
-    "story_7655": {
-        "par_0": {
-            "tsr_0": "Basilica"
-        },
-        "tsr_0": "Basilica"
-    },
-    "story_7678": {
-        "par_0": {
-            "tsr_0": "Cloister"
-        },
-        "tsr_0": "Cloister"
-    },
-    "story_7745": {
-        "par_0": {
-            "tsr_0": "Museum of the Treasury"
-        },
-        "tsr_0": "Museum of the Treasury"
+        "tsr_0": [
+            "RECOMMENDED"
+        ]
     },
     "story_7790": {
-        "par_0": {
-            "tsr_0": "Baptistery"
-        },
-        "tsr_0": "Baptistery"
-    },
-    "story_7835": {
-        "par_0": {
-            "tsr_0": "Holy Stairs\nand Holy of Holies"
-        },
-        "par_1": {
-            "tsr_0": "and Holy of Holies"
-        },
-        "tsr_0": "Holy Stairs\nand Holy of Holies"
-    },
-    "story_8070": {
-        "par_0": {
-            "tsr_0": "BASILICA"
-        },
-        "tsr_0": "BASILICA"
-    },
-    "story_8092": {
-        "par_0": {
-            "tsr_0": "OF SANTA MARIA IN VIA LATA"
-        },
-        "tsr_0": "OF SANTA MARIA IN VIA LATA"
-    },
-    "story_8114": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        },
-        "par_2": {
-            "tsr_0": "In the crypt, remains of a large Roman period edifice are still visible; in the 7th century, it was transformed into a place of worship."
-        }
-    },
-    "story_8136": {
-        "par_0": {
-            "tsr_0": "Underground Crypt"
-        },
-        "tsr_0": "Underground Crypt"
-    },
-    "story_8454": {
-        "par_0": {
-            "tsr_0": "CUSTOMIZE YOUR ITINERARY "
-        },
-        "tsr_0": "CUSTOMIZE YOUR ITINERARY "
-    },
-    "story_8476": {
-        "par_0": {
-            "tsr_0": "OF UNDERGROUND ROME WITH…"
-        },
-        "tsr_0": "OF UNDERGROUND ROME WITH…"
-    },
-    "story_8499": {
-        "par_0": {
-            "tsr_0": "Carcer Tullianum"
-        },
-        "tsr_0": "Carcer Tullianum"
-    },
-    "story_8521": {
-        "par_0": {
-            "tsr_0": "Catacombs of Rome"
-        },
-        "tsr_0": "Catacombs of Rome"
-    },
-    "story_8732": {
-        "par_0": {
-            "tsr_0": "CARCER "
-        },
-        "tsr_0": "CARCER "
-    },
-    "story_8754": {
-        "par_0": {
-            "tsr_0": "TULLIANUM"
-        },
-        "tsr_0": "TULLIANUM"
-    },
-    "story_8776": {
-        "par_0": {
-            "tsr_0": "The Carcer Tullianum is one of the most fascinating archeological monuments from the era of the Roman republic. It contains a wealth of art, archeology and history. It has also become a place of Christian worship, and is situated beneath the church of Saint Joseph of the Carpenters. And seeing that it faces the Roman Forum, it offers one of the most evocative views of ancient Rome. With the assistance of some of the most recent technologies, you will discover the place where, according to tradition, Saint Peter was imprisoned."
-        },
-        "tsr_0": "The Carcer Tullianum is one of the most fascinating archeological monuments from the era of the Roman republic. It contains a wealth of art, archeology and history. It has also become a place of Christian worship, and is situated beneath the church of Saint Joseph of the Carpenters. And seeing that it faces the Roman Forum, it offers one of the most evocative views of ancient Rome. With the assistance of some of the most recent technologies, you will discover the place where, according to tradition, Saint Peter was imprisoned."
-    },
-    "story_9076": {
-        "par_0": {
-            "tsr_0": "CUSTOMIZE YOUR ITINERARY "
-        },
-        "tsr_0": "CUSTOMIZE YOUR ITINERARY "
-    },
-    "story_9098": {
-        "par_0": {
-            "tsr_0": "OF UNDERGROUND ROME WITH…"
-        },
-        "tsr_0": "OF UNDERGROUND ROME WITH…"
+        "tsr_0": [
+            "Baptistery"
+        ]
     },
     "story_9121": {
-        "par_0": {
-            "tsr_0": "Basilica Santa Maria in Via Lata"
-        },
-        "tsr_0": "Basilica Santa Maria in Via Lata"
-    },
-    "story_9144": {
-        "par_0": {
-            "tsr_0": "Catacombs of Rome"
-        },
-        "tsr_0": "Catacombs of Rome"
-    },
-    "story_9357": {
-        "par_0": {
-            "tsr_0": "CARCER TULLIANUM"
-        },
-        "tsr_0": "CARCER TULLIANUM"
-    },
-    "story_9379": {
-        "par_0": {
-            "tsr_0": "& COLOSSEUM ARCHAEOLOGICAL PARK COMBO"
-        },
-        "tsr_0": "& COLOSSEUM ARCHAEOLOGICAL PARK COMBO"
-    },
-    "story_9401": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": "Carcer Tullianum: the maximum security prison of ancient Rome where enemies of state were imprisoned; Colosseum: where cruel games of Imperial Rome were held; Roman Forum: the social, commercial and religious hub of ancient Rome from the first pages of its history; Palatine Hill, place where this city was born around the middle of the eighth century BC. "
-        }
-    },
-    "story_9427": {
-        "par_0": {
-            "tsr_0": "Priority entrance"
-        },
-        "tsr_0": "Priority entrance"
-    },
-    "story_4545": {
-        "par_0": {
-            "tsr_0": "Priority entrance"
-        },
-        "tsr_0": "Priority entrance"
-    },
-    "story_5348": {
-        "par_0": {
-            "tsr_0": "Guided Visit Vatican Museums"
-        },
-        "tsr_0": "Guided Visit Vatican Museums"
-    },
-    "story_6715": {
-        "par_0": {
-            "tsr_0": "Guided visit Vatican Museums"
-        },
-        "tsr_0": "Guided visit Vatican Museums"
-    },
-    "story_9852": {
-        "par_0": {
-            "tsr_0": "CATACOMBS "
-        },
-        "tsr_0": "CATACOMBS "
-    },
-    "story_9874": {
-        "par_0": {
-            "tsr_0": "OF ROME"
-        },
-        "tsr_0": "OF ROME"
-    },
-    "story_9896": {
-        "par_0": {
-            "tsr_0": "The Catacombs of Rome are a network of tunnels carved out of tuff, at times on several levels. As you progress through this network of corridors, rooms and underground halls, you will be inevitably taken in not only by evocative scenes both from the Bible and from every day life in Rome, but also by a world of symbols, some of which are painted as frescoes, others which are carved into the stone as graffiti."
-        },
-        "tsr_0": "The Catacombs of Rome are a network of tunnels carved out of tuff, at times on several levels. As you progress through this network of corridors, rooms and underground halls, you will be inevitably taken in not only by evocative scenes both from the Bible and from every day life in Rome, but also by a world of symbols, some of which are painted as frescoes, others which are carved into the stone as graffiti."
-    },
-    "story_9926": {
-        "par_0": {
-            "tsr_0": "Availability"
-        },
-        "tsr_0": "Availability"
-    },
-    "story_9948": {
-        "par_0": {
-            "tsr_0": "Every day"
-        },
-        "tsr_0": "Every day"
-    },
-    "story_9970": {
-        "par_0": {
-            "tsr_0": "Included in your visit"
-        },
-        "tsr_0": "Included in your visit"
-    },
-    "story_9992": {
-        "par_0": {
-            "tsr_0": "Length"
-        },
-        "tsr_0": "Length"
+        "tsr_0": [
+            "Basilica Santa Maria in Via Lata"
+        ]
     },
     "story_10014": {
-        "par_0": {
-            "tsr_0": "about 1 hour"
-        },
-        "tsr_0": "about 1 hour"
-    },
-    "story_10036": {
-        "par_0": {
-            "tsr_0": "Enrich your experience"
-        },
-        "tsr_0": "Enrich your experience"
-    },
-    "story_10082": {
-        "par_0": {
-            "tsr_0": "Vatican&Rome Travel Card"
-        },
-        "tsr_0": "Vatican&Rome Travel Card"
-    },
-    "story_10104": {
-        "par_0": {
-            "tsr_0": "Lateran complex"
-        },
-        "tsr_0": "Lateran complex"
-    },
-    "story_10141": {
-        "par_0": {
-            "tsr_0": "CUSTOMIZE YOUR ITINERARY "
-        },
-        "tsr_0": "CUSTOMIZE YOUR ITINERARY "
-    },
-    "story_10163": {
-        "par_0": {
-            "tsr_0": "OF UNDERGROUND ROME WITH…"
-        },
-        "tsr_0": "OF UNDERGROUND ROME WITH…"
-    },
-    "story_10185": {
-        "par_0": {
-            "tsr_0": "Carcer Tullianum"
-        },
-        "tsr_0": "Carcer Tullianum"
-    },
-    "story_10208": {
-        "par_0": {
-            "tsr_0": "Basilica Santa Maria in Via Lata"
-        },
-        "tsr_0": "Basilica Santa Maria in Via Lata"
-    },
-    "story_11502": {
-        "par_0": {
-            "tsr_0": "OPEN BUS"
-        },
-        "tsr_0": "OPEN BUS"
-    },
-    "story_11524": {
-        "par_0": {
-            "tsr_0": "VATICAN&ROME"
-        },
-        "tsr_0": "VATICAN&ROME"
-    },
-    "story_11546": {
-        "par_0": {
-            "tsr_0": "The city of Rome is an open air museum, which you can explore in relaxation while you take in the amazing view, on board the Vatican&Rome Open Bus.\n"
-        },
-        "par_1": {
-            "tsr_0": "An authentic journey into the heart of the City. You'll be able to hop on and off at any of the stops along the way, strategically placed in the most interesting areas of the city. A multi-language audio guide will assist in enriching your knowledge of Rome's history and of its wonders."
-        },
-        "tsr_0": "The city of Rome is an open air museum, which you can explore in relaxation while you take in the amazing view, on board the Vatican&Rome Open Bus.\n",
-        "tsr_1": "An authentic journey into the heart of the City. You'll be able to hop on and off at any of the stops along the way, strategically placed in the most interesting areas of the city. A multi-language audio guide will assist in enriching your knowledge of Rome's history and of its wonders."
-    },
-    "story_11568": {
-        "par_0": {
-            "tsr_0": "Included in your visit"
-        },
-        "tsr_0": "Included in your visit"
-    },
-    "story_11597": {
-        "par_0": {
-            "tsr_0": "Availability"
-        },
-        "tsr_0": "Availability"
-    },
-    "story_11619": {
-        "par_0": {
-            "tsr_0": "Every day"
-        },
-        "tsr_0": "Every day"
-    },
-    "story_11648": {
-        "par_0": {
-            "tsr_0": "Length"
-        },
-        "tsr_0": "Length"
+        "tsr_0": [
+            "about 1 hour"
+        ]
     },
     "story_11670": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_5964": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_5986": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6008": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6030": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6052": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6074": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6097": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6744": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6766": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6788": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6810": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6832": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6854": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6877": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_7457": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_7479": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_7501": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_7523": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_7545": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_7568": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8284": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8306": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8328": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8350": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8372": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8394": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8417": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8842": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8914": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8936": {
-        "par_0": {
-            "tsr_0": ""
-        }
+        "tsr_0": [
+            "1 ½ hours",
+            "panoramic tour"
+        ]
     },
     "story_8958": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8980": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9002": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9025": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9499": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9521": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9543": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9565": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9587": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9609": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9632": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_1751": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_1773": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_1795": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_4053": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_4075": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_4016": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_4098": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_2": {
-            "tsr_0": ""
-        }
-    },
-    "story_1525": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_2": ""
-        }
-    },
-    "story_11929": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11951": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11892": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11974": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12211": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        },
-        "par_2": {
-            "tsr_0": ""
-        }
-    },
-    "story_12492": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12238": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12260": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12282": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12304": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12326": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12349": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12373": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12397": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12421": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12445": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12469": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12516": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12744": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12076": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12539": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12561": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13063": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13103": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13125": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13170": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13147": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13271": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13293": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13315": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_13337": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13359": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13381": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13403": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13425": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13447": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13469": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13491": {
-        "par_0": {
-            "tsr_0": ""
-        }
+        "tsr_0": [
+            "Included in your visit"
+        ]
     },
     "story_13513": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13535": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13558": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13915": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13966": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13988": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14010": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14032": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14054": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14076": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14100": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14143": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14165": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14187": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14209": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13604": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14273": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14442": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14464": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14486": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14508": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14530": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14552": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14574": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14596": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14618": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14640": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14662": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14684": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14707": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14750": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14988": {
-        "par_0": {
-            "tsr_0": ""
-        }
+        "tsr_0": [
+            "San Marcello al Corso"
+        ]
     },
     "story_15038": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15060": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15082": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15104": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15126": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15148": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15172": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15218": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15240": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15285": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15263": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15307": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15518": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15540": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15562": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15585": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15607": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15629": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15651": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15673": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15695": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15717": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15739": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15761": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15784": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15830": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16063": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16117": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16139": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16161": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16183": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16207": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16254": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16276": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16298": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16321": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16343": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16365": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16387": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16606": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16628": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16650": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16673": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16695": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16717": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16739": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16761": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16783": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16805": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16827": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16850": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16895": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17213": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17147": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17169": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17114": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_17191": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17314": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17336": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17358": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17380": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17402": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17424": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17447": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17502": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_17562": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17586": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17608": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17631": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17653": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17676": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17698": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17524": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17879": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_17932": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17954": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17976": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17998": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18020": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18042": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18108": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18130": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18476": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18224": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18248": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18272": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18296": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18320": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18344": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18368": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18566": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18588": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18610": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18632": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18668": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_18690": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18729": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18753": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18777": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18801": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18825": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18849": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18873": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18897": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19708": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19186": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19208": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19230": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19252": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19274": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19296": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19354": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19376": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19400": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19423": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19447": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19471": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19495": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19519": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19543": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19567": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19592": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19616": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19788": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19810": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19844": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19866": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19900": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19922": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19945": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19995": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20019": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20043": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20067": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20090": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20259": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20308": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20330": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20352": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20391": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20413": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20435": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20481": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20775": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20797": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20836": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_20858": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20895": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21128": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20918": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20940": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20962": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20984": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21007": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21151": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21175": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21198": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21222": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21245": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21269": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21292": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21316": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21339": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21363": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21386": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21410": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21433": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21457": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21480": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21504": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21527": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21551": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21574": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21741": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21791": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21813": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21835": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21857": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21893": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22038": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22060": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21940": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22085": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22108": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10233": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10255": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_4900": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_4922": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_5684": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_5706": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6420": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6442": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_7155": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_7177": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_7900": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_7922": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8559": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8581": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9186": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9208": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9702": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9724": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11716": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11738": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13713": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13735": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14297": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14319": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14844": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_14866": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15394": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15416": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16483": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16505": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15918": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_15940": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16971": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_16993": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17723": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_17745": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18153": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18175": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18921": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18965": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18987": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19640": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19662": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20114": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20136": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20504": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20526": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21597": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_21619": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22132": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22154": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20550": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22890": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        },
-        "par_2": {
-            "tsr_0": ""
-        }
-    },
-    "story_22912": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22843": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22934": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23036": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23058": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23080": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_1640": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_2": ""
-        }
-    },
-    "story_25379": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25313": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_25335": {
-        "par_0": {
-            "tsr_0": ""
-        }
+        "tsr_0": [
+            "ROME"
+        ]
     },
     "story_25357": {
         "par_0": {
             "tsr_0": ""
         }
     },
-    "story_25667": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25689": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25645": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25712": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25734": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25756": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25802": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25779": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25486": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25509": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25531": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25554": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25576": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25599": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25621": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_27163": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_27186": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_27217": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_27240": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_27265": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_27291": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_27313": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_5730": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_4945": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_6466": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_7201": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_7945": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_8604": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_9232": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_9747": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_10296": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_12618": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_13758": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_14342": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_14889": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_15440": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_15963": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_16528": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_17016": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_17768": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_18199": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_19011": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_19686": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_20159": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_20572": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_21642": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_22178": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_23115": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_23769": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_24336": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_25908": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_1925": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_1947": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_1969": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_1991": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2013": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2035": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2057": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2079": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2101": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2123": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2145": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2167": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2189": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2211": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2233": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2255": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2277": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2299": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2321": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2343": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2365": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2387": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2409": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2431": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2453": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2475": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2497": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2519": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2541": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2563": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2585": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2607": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2629": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2651": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_2673": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2695": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2717": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2739": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2783": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2805": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_2827": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_3031": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_3075": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_3119": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23137": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23201": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23224": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10318": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10340": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10362": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10384": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10406": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10428": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10450": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10472": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_2": {
-            "tsr_0": ""
-        }
-    },
-    "story_18430": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18391": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_18453": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25930": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        },
-        "par_2": {
-            "tsr_0": ""
-        },
-        "par_3": {
-            "tsr_0": ""
-        }
-    },
-    "story_22292": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22314": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22338": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": "",
-            "tsr_1": "",
-            "tsr_2": ""
-        }
-    },
-    "story_22360": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22395": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22440": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22462": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22485": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_22707": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": "",
-            "tsr_2": "",
-            "tsr_3": "",
-            "tsr_4": "",
-            "tsr_5": "",
-            "tsr_6": "",
-            "tsr_7": "",
-            "tsr_8": "",
-            "tsr_9": "",
-            "tsr_10": "",
-            "tsr_11": "",
-            "tsr_13": "",
-            "tsr_15": "",
-            "tsr_16": "",
-            "tsr_17": "",
-            "tsr_18": ""
-        }
-    },
-    "story_22511": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22535": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22559": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22582": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22606": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22629": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22685": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_3879": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_5756": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10494": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12651": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12133": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12676": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12708": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13780": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_13803": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20594": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20616": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20638": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20660": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10544": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_20683": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22201": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_22729": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_26099": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_26075": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": "",
-            "tsr_2": ""
-        },
-        "par_1": {
-            "tsr_0": "",
-            "tsr_1": "",
-            "tsr_2": "",
-            "tsr_3": "",
-            "tsr_4": "",
-            "tsr_5": ""
-        },
-        "par_3": {
-            "tsr_0": "",
-            "tsr_1": "",
-            "tsr_2": ""
-        }
-    },
-    "story_26121": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": "",
-            "tsr_2": "",
-            "tsr_3": "",
-            "tsr_4": "",
-            "tsr_5": ""
-        }
-    },
-    "story_26144": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_26169": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_26213": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_26235": {
-        "par_0": {
-            "tsr_1": ""
-        }
-    },
-    "story_26999": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_26746": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": "",
-            "tsr_2": ""
-        }
-    },
-    "story_26961": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_26353": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_26375": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_26397": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
-    },
-    "story_26465": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_27022": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_27044": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_26891": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_26913": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_26698": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_27111": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_26509": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": "",
-            "tsr_2": ""
-        }
-    },
-    "story_26532": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_26554": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_26592": {
         "par_0": {
-            "tsr_0": "",
-            "tsr_1": "",
-            "tsr_2": "",
             "tsr_3": ""
         }
     },
-    "story_26615": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_26637": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_26851": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": "",
-            "tsr_2": ""
-        }
-    },
-    "story_26784": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_26806": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10669": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10691": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10713": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10824": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10846": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10868": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10890": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10912": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10935": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10989": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11034": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_11072": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11094": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11116": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11161": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11197": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11220": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11265": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_4968": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_4121": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_1844": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6492": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_7227": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_7971": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_8632": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9258": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_9773": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_10570": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11776": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_11802": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12770": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12796": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_27350": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_12827": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_3923": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23247": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23269": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23291": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23329": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23393": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23415": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23438": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23460": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23482": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23505": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23569": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23592": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23791": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23813": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23835": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23858": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23922": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_23945": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24004": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24026": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24048": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24071": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24135": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24157": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24180": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24232": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24358": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24380": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24402": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24438": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24502": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24525": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24548": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24570": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24592": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24616": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24638": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24661": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24725": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24747": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24786": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24808": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24830": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24853": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24893": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24916": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24963": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_24985": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25007": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25030": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25094": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_25116": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19033": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_19055": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11322": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11344": {
-        "par_0": {
-            "tsr_0": "",
-            "tsr_1": ""
-        }
-    },
-    "story_11367": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_11389": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_4146": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_4993": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
-    "story_6514": {
-        "par_0": {
-            "tsr_0": ""
-        }
-    },
     "story_7249": {
-        "par_0": {
-            "tsr_0": ""
-        }
+        "tsr_0": [
+            "‥"
+        ]
     },
-    "story_7993": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_6997": {
+        "tsr_0": [
+            "Bernini's Baldachin"
+        ]
     },
-    "story_9795": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
+    "story_5167": {
+        "tsr_0": [
+            "Included in your visit"
+        ]
     },
-    "story_10592": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_5211": {
+        "tsr_0": [
+            "Duration"
+        ]
     },
-    "story_12017": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_5233": {
+        "tsr_0": [
+            "starting at 1 hour"
+        ]
     },
-    "story_13192": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_5326": {
+        "tsr_0": [
+            "Reservations required"
+        ]
     },
-    "story_14364": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_4522": {
+        "tsr_0": [
+            "Reservations required"
+        ]
     },
-    "story_16550": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_5430": {
+        "tsr_0": [
+            "Pius IV Villa"
+        ]
     },
-    "story_17235": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_5521": {
+        "tsr_0": [
+            "Rose garden"
+        ]
     },
-    "story_17790": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_5566": {
+        "tsr_0": [
+            "Lourdes Grotto"
+        ]
     },
-    "story_18510": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_5834": {
+        "tsr_0": [
+            "PAPAL RESIDENCE "
+        ]
     },
-    "story_19077": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_5856": {
+        "tsr_0": [
+            "OF CASTEL GANDOLFO"
+        ]
     },
-    "story_19730": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_7064": {
+        "tsr_0": [
+            "Cathedra of Saint Peter"
+        ]
     },
-    "story_20181": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_6244": {
+        "tsr_0": [
+            "ITINERARY"
+        ]
     },
-    "story_20719": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_6266": {
+        "tsr_0": [
+            "Apostolic Palace"
+        ]
     },
-    "story_21664": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_6592": {
+        "tsr_0": [
+            "OF SAINT PETER"
+        ]
     },
-    "story_22235": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_7109": {
+        "tsr_0": [
+            "Tombs of the Popes"
+        ]
     },
-    "story_22763": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_7328": {
+        "tsr_0": [
+            "LATERAN"
+        ]
     },
-    "story_22956": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_7611": {
+        "tsr_0": [
+            "ITINERARY"
+        ]
     },
-    "story_23644": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_7655": {
+        "tsr_0": [
+            "Basilica"
+        ]
     },
-    "story_23666": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_7835": {
+        "tsr_0": [
+            "Holy Stairs",
+            "and Holy of Holies"
+        ]
     },
-    "story_23688": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_8070": {
+        "tsr_0": [
+            "BASILICA"
+        ]
     },
-    "story_24254": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_8136": {
+        "tsr_0": [
+            "Underground crypt"
+        ]
     },
-    "story_24276": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_8454": {
+        "tsr_0": [
+            "CUSTOMIZE YOUR ITINERARY "
+        ]
     },
-    "story_25164": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
+    "story_8754": {
+        "tsr_0": [
+            "TULLIANUM"
+        ]
     },
-    "story_25186": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_9076": {
+        "tsr_0": [
+            "CUSTOMIZE YOUR ITINERARY "
+        ]
     },
-    "story_25208": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_10185": {
+        "tsr_0": [
+            "Carcer Tullianum"
+        ]
     },
-    "story_25230": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_9609": {
+        "tsr_0": [
+            "about 3 hours"
+        ]
     },
-    "story_25401": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_15285": {
+        "tsr_0": [
+            "Carcer Tullianum"
+        ]
     },
-    "story_25969": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_15263": {
+        "tsr_0": [
+            "Unwonted"
+        ]
     },
-    "story_35637": {
-        "par_0": {
-            "tsr_0": ""
-        },
-        "par_1": {
-            "tsr_0": ""
-        }
+    "story_8476": {
+        "tsr_0": [
+            [
+                "OF UNDERGROUND ROME WITH",
+                "…"
+            ]
+        ]
     },
-    "story_35694": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_8499": {
+        "tsr_0": [
+            "Carcer Tullianum"
+        ]
     },
-    "story_35733": {
-        "par_0": {
-            "tsr_0": ""
-        }
+    "story_8521": {
+        "tsr_0": [
+            "Catacombs of Rome"
+        ]
+    },
+    "story_8732": {
+        "tsr_0": [
+            "CARCER "
+        ]
+    },
+    "story_9098": {
+        "tsr_0": [
+            [
+                "OF UNDERGROUND ROME WITH",
+                "…"
+            ]
+        ]
+    },
+    "story_9357": {
+        "tsr_0": [
+            "CARCER TULLIANUM"
+        ]
+    },
+    "story_9379": {
+        "tsr_0": [
+            "& COLOSSEUM ARCHAEOLOGICAL PARK COMBO"
+        ]
+    },
+    "story_4545": {
+        "tsr_0": [
+            "Priority entrance"
+        ]
+    },
+    "story_5348": {
+        "tsr_0": [
+            "Guided Visit Vatican Museums"
+        ]
+    },
+    "story_9852": {
+        "tsr_0": [
+            "CATACOMBS "
+        ]
+    },
+    "story_9874": {
+        "tsr_0": [
+            "OF ROME"
+        ]
+    },
+    "story_9926": {
+        "tsr_0": [
+            "Availability"
+        ]
+    },
+    "story_9948": {
+        "tsr_0": [
+            "Every day"
+        ]
+    },
+    "story_9970": {
+        "tsr_0": [
+            "Included in your visit"
+        ]
+    },
+    "story_9992": {
+        "tsr_0": [
+            "Duration"
+        ]
+    },
+    "story_10036": {
+        "tsr_0": [
+            "Enrich your experience"
+        ]
+    },
+    "story_10082": {
+        "tsr_0": [
+            "Vatican&Rome Travel Card"
+        ]
+    },
+    "story_10104": {
+        "tsr_0": [
+            "Lateran complex"
+        ]
+    },
+    "story_10163": {
+        "tsr_0": [
+            [
+                "…",
+                "…"
+            ]
+        ]
+    },
+    "story_10208": {
+        "tsr_0": [
+            "Basilica Santa Maria in Via Lata"
+        ]
+    },
+    "story_11502": {
+        "tsr_0": [
+            "OPEN BUS"
+        ]
+    },
+    "story_11524": {
+        "tsr_0": [
+            "VATICAN&ROME"
+        ]
+    },
+    "story_11568": {
+        "tsr_0": [
+            "Included in your visit"
+        ]
+    },
+    "story_11597": {
+        "tsr_0": [
+            "Availability"
+        ]
+    },
+    "story_11619": {
+        "tsr_0": [
+            "Every day"
+        ]
+    },
+    "story_11648": {
+        "tsr_0": [
+            "Duration"
+        ]
+    },
+    "story_5964": {
+        "tsr_0": [
+            "Availability"
+        ]
+    },
+    "story_5986": {
+        "tsr_0": [
+            "Every day"
+        ]
+    },
+    "story_6008": {
+        "tsr_0": [
+            "Included in your visit"
+        ]
+    },
+    "story_6030": {
+        "tsr_0": [
+            "Enrich your experience"
+        ]
+    },
+    "story_6052": {
+        "tsr_0": [
+            "Duration"
+        ]
+    },
+    "story_6074": {
+        "tsr_0": [
+            "about 2 hours"
+        ]
+    },
+    "story_6097": {
+        "tsr_0": [
+            "Reservations required"
+        ]
+    },
+    "story_6744": {
+        "tsr_0": [
+            "Availability"
+        ]
+    },
+    "story_6810": {
+        "tsr_0": [
+            "Enrich your experience"
+        ]
+    },
+    "story_6832": {
+        "tsr_0": [
+            "Duration"
+        ]
+    },
+    "story_6854": {
+        "tsr_0": [
+            "about 2 hours"
+        ]
+    },
+    "story_6877": {
+        "tsr_0": [
+            "Reservations required"
+        ]
+    },
+    "story_7457": {
+        "tsr_0": [
+            "Availability"
+        ]
+    },
+    "story_7479": {
+        "tsr_0": [
+            "Every day"
+        ]
+    },
+    "story_7501": {
+        "tsr_0": [
+            "Included in your visit"
+        ]
+    },
+    "story_7523": {
+        "tsr_0": [
+            "Duration"
+        ]
+    },
+    "story_7568": {
+        "tsr_0": [
+            "Reservations required"
+        ]
+    },
+    "story_8284": {
+        "tsr_0": [
+            "Availability"
+        ]
+    },
+    "story_8306": {
+        "tsr_0": [
+            "Every day"
+        ]
+    },
+    "story_8350": {
+        "tsr_0": [
+            "Enrich your experience"
+        ]
+    },
+    "story_8372": {
+        "tsr_0": [
+            "Duration"
+        ]
+    },
+    "story_8394": {
+        "tsr_0": [
+            "about 1 hour"
+        ]
+    },
+    "story_8842": {
+        "tsr_0": [
+            "Enrich your experience"
+        ]
+    },
+    "story_8914": {
+        "tsr_0": [
+            "Availability"
+        ]
+    },
+    "story_8936": {
+        "tsr_0": [
+            "Every day"
+        ]
+    },
+    "story_8980": {
+        "tsr_0": [
+            "Duration"
+        ]
+    },
+    "story_9002": {
+        "tsr_0": [
+            "about 1 hour"
+        ]
+    },
+    "story_9025": {
+        "tsr_0": [
+            "Reservations required"
+        ]
+    },
+    "story_9499": {
+        "tsr_0": [
+            "Availability"
+        ]
+    },
+    "story_9521": {
+        "tsr_0": [
+            "Every day"
+        ]
+    },
+    "story_9565": {
+        "tsr_0": [
+            "Enrich your experience"
+        ]
+    },
+    "story_9587": {
+        "tsr_0": [
+            "Duration"
+        ]
+    },
+    "story_9632": {
+        "tsr_0": [
+            "Reservations required"
+        ]
+    },
+    "story_1773": {
+        "tsr_0": [
+            "OMNIA Vatican & Rome"
+        ]
+    },
+    "story_1795": {
+        "tsr_0": [
+            "OPERA ROMANA PELLEGRINAGGI"
+        ]
+    },
+    "story_4053": {
+        "tsr_0": [
+            "ROME"
+        ]
+    },
+    "story_4075": {
+        "tsr_0": [
+            "E"
+        ],
+        "tsr_1": [
+            "ssential"
+        ]
+    },
+    "story_4016": {
+        "tsr_0": [
+            "Discover the must see places of Christian Rome together with us"
+        ]
+    },
+    "story_1525": {
+        "tsr_2": [
+            "Rome"
+        ]
+    },
+    "story_11929": {
+        "tsr_0": [
+            "ROME"
+        ]
+    },
+    "story_11951": {
+        "tsr_0": [
+            "In your pocket"
+        ]
+    },
+    "story_12211": {
+        "tsr_0": [
+            "Rome is not only a city laden with historical charm, museums, and churches, but it's the very heart of Christendom.",
+            "An Omnia Card will help you optimize your experience in Rome, making it that much more simple to organize your visits in an inexpensive manner."
+        ],
+        "tsr_1": [
+            "According to the amount of time you have to spend, you can choose between the 24h card and the 72h card, both of which include a number of services."
+        ]
+    },
+    "story_12492": {
+        "tsr_0": [
+            "If your stay in Rome is a short one, you can choose the Omnia Card 24 hours to accompany your unforgettable experience, allowing you to discover the treasures of Rome with numerous concessions and favorable conditions."
+        ]
+    },
+    "story_12238": {
+        "tsr_0": [
+            "Vatican Museums and Sistine Chapel"
+        ]
+    },
+    "story_12282": {
+        "tsr_0": [
+            "Entrance to Carcer Tullianum (Mamertine prison) with multimedia support"
+        ]
+    },
+    "story_12326": {
+        "tsr_0": [
+            "Entrance of your choice to one of the Catacombs of Rome"
+        ]
+    },
+    "story_12397": {
+        "tsr_0": [
+            "Multi-language audioguide app for Saint Peter's Basilica"
+        ]
+    },
+    "story_12445": {
+        "tsr_0": [
+            "Basilica of Saint John Lateran and Cloister, with an audio guide and entry to the Museum of the Treasury"
+        ]
+    },
+    "story_12469": {
+        "tsr_0": [
+            "Entrance to the underground crypt of the Basilica of Santa Maria in Via Lata"
+        ]
+    },
+    "story_12516": {
+        "tsr_0": [
+            "Vatican&Rome Open Bus"
+        ]
+    },
+    "story_12561": {
+        "tsr_0": [
+            "72h"
+        ]
+    },
+    "story_13103": {
+        "tsr_0": [
+            "ROME"
+        ]
+    },
+    "story_13125": {
+        "tsr_0": [
+            "Unwonted"
+        ]
+    },
+    "story_13147": {
+        "tsr_0": [
+            "for all ages"
+        ]
+    },
+    "story_13293": {
+        "tsr_0": [
+            "OF ROME"
+        ]
+    },
+    "story_13315": {
+        "tsr_0": [
+            "In the heart of Rome, artistic beauty and spiritual afflatus join together.",
+            "Retrace the steps traced in ages past by the Roman Emperors, discover the traces left by the Christian martyrs, and follow in the footsteps of so many Saints who have walked before us in these same streets. Contemplate the stories of the Gospel and of those who put it into practice in a heroic manner, as told by the works of art and by the architectural masterpieces."
+        ]
+    },
+    "story_13337": {
+        "tsr_0": [
+            "Duration"
+        ]
+    },
+    "story_13359": {
+        "tsr_0": [
+            "about 3 hours"
+        ]
+    },
+    "story_13381": {
+        "tsr_0": [
+            "Enrich your experience"
+        ]
+    },
+    "story_13403": {
+        "tsr_0": [
+            "Vatican&Rome Open Bus"
+        ]
+    },
+    "story_13425": {
+        "tsr_0": [
+            "Itinerary"
+        ]
+    },
+    "story_13447": {
+        "tsr_0": [
+            "Piazza Navona"
+        ]
+    },
+    "story_13491": {
+        "tsr_0": [
+            "Santa Maria in Via Lata"
+        ]
+    },
+    "story_13535": {
+        "tsr_0": [
+            "Trevi Fountain"
+        ]
+    },
+    "story_13558": {
+        "tsr_0": [
+            "Reservations required"
+        ]
+    },
+    "story_13915": {
+        "tsr_0": [
+            "Rome preserves the memory of Gospel events through so many relics kept in various basilicas and churches. Discover the most significant Christian relics along a path that starts at the Basilica of Holy Cross in Jerusalem and ends at the Basilica of Saint Mary Major. Relive events from the life of Jesus and of the Apostles. Get a taste of the Holy Land here in Rome, in anticipation of an actual pilgrimage to the places of the Gospel in the Holy Land."
+        ]
+    },
+    "story_13966": {
+        "tsr_0": [
+            "HOLY LAND"
+        ]
+    },
+    "story_13988": {
+        "tsr_0": [
+            "IN ROME"
+        ]
+    },
+    "story_14010": {
+        "tsr_0": [
+            "Duration"
+        ]
+    },
+    "story_14032": {
+        "tsr_0": [
+            "about 3 hours"
+        ]
+    },
+    "story_14054": {
+        "tsr_0": [
+            "Enrich your experience"
+        ]
+    },
+    "story_14076": {
+        "tsr_0": [
+            "Vatican&Rome Open Bus"
+        ]
+    },
+    "story_14100": {
+        "tsr_0": [
+            "Reservations required"
+        ]
+    },
+    "story_14143": {
+        "tsr_0": [
+            "Itinerary"
+        ]
+    },
+    "story_14165": {
+        "tsr_0": [
+            "Saint Mary Major"
+        ]
+    },
+    "story_14187": {
+        "tsr_0": [
+            "Holy Cross in Jerusalem"
+        ]
+    },
+    "story_14209": {
+        "tsr_0": [
+            "Saint John Lateran"
+        ]
+    },
+    "story_13604": {
+        "tsr_0": [
+            "Unwonted"
+        ]
+    },
+    "story_14273": {
+        "tsr_0": [
+            "Unwonted"
+        ]
+    },
+    "story_14464": {
+        "tsr_0": [
+            "MIRACULOUS"
+        ]
+    },
+    "story_14530": {
+        "tsr_0": [
+            "about 3 hours"
+        ]
+    },
+    "story_14574": {
+        "tsr_0": [
+            "Vatican&Rome Open Bus"
+        ]
+    },
+    "story_14596": {
+        "tsr_0": [
+            "Itinerary"
+        ]
+    },
+    "story_14618": {
+        "tsr_0": [
+            "Santa Maria in Via Lata"
+        ]
+    },
+    "story_14640": {
+        "tsr_0": [
+            "Santa Maria in Aracoeli"
+        ]
+    },
+    "story_14662": {
+        "tsr_0": [
+            "Santa Francesca Romana"
+        ]
+    },
+    "story_14684": {
+        "tsr_0": [
+            "Saint Mary Major"
+        ]
+    },
+    "story_14707": {
+        "tsr_0": [
+            "Reservations required"
+        ]
+    },
+    "story_14750": {
+        "tsr_0": [
+            "Unwonted"
+        ]
+    },
+    "story_15060": {
+        "tsr_0": [
+            "JEWISH"
+        ]
+    },
+    "story_15082": {
+        "tsr_0": [
+            "Duration"
+        ]
+    },
+    "story_15104": {
+        "tsr_0": [
+            "about 3 hours"
+        ]
+    },
+    "story_15126": {
+        "tsr_0": [
+            "Enrich your experience"
+        ]
+    },
+    "story_15148": {
+        "tsr_0": [
+            "Vatican&Rome Open Bus"
+        ]
+    },
+    "story_15172": {
+        "tsr_0": [
+            "Reservations required"
+        ]
+    },
+    "story_15218": {
+        "tsr_0": [
+            "Itinerary"
+        ]
+    },
+    "story_15307": {
+        "tsr_0": [
+            "Jewish Ghetto"
+        ]
+    },
+    "story_15540": {
+        "tsr_0": [
+            "IN THE CENTER"
+        ]
+    },
+    "story_15585": {
+        "tsr_0": [
+            "Duration"
+        ]
+    },
+    "story_15607": {
+        "tsr_0": [
+            "about 3 hours"
+        ]
+    },
+    "story_15629": {
+        "tsr_0": [
+            "Enrich your experience"
+        ]
+    },
+    "story_15651": {
+        "tsr_0": [
+            "Vatican&Rome Open Bus"
+        ]
+    },
+    "story_15673": {
+        "tsr_0": [
+            "Itinerary"
+        ]
+    },
+    "story_15695": {
+        "tsr_0": [
+            "Jewish Ghetto"
+        ]
+    },
+    "story_15717": {
+        "tsr_0": [
+            "Campo dei Fiori"
+        ]
+    },
+    "story_15739": {
+        "tsr_0": [
+            "Street market at Piazza Navona"
+        ]
+    },
+    "story_15761": {
+        "tsr_0": [
+            "Sant'Eustachio District"
+        ]
+    },
+    "story_15784": {
+        "tsr_0": [
+            "Reservations required"
+        ]
+    },
+    "story_15830": {
+        "tsr_0": [
+            "Unwonted"
+        ]
+    },
+    "story_16117": {
+        "tsr_0": [
+            "ROME"
+        ]
+    },
+    "story_5094": {
+        "tsr_0": [
+            "The Vatican Gardens occupy about two thirds of the surface area of Vatican City. The Popes have come to relax and meditate here since the year 1279 AD. You can admire the natural beauty and architectural wonders of the Vatican Gardens with a guided visit. Or, you can choose to have your visit in an unprecedented and sustainable fashion: on board a panoramic minibus where the silence of the \"green heart\" of the Vatican will permeate an evocative tour along paths of art, nature, and faith."
+        ]
+    },
+    "story_5123": {
+        "tsr_0": [
+            "Availability"
+        ]
+    },
+    "story_5145": {
+        "tsr_0": [
+            "From Monday to Saturday"
+        ]
+    },
+    "story_5189": {
+        "tsr_0": [
+            "Enrich your experience"
+        ]
+    },
+    "story_5386": {
+        "tsr_0": [
+            "ITINERARY"
+        ]
+    },
+    "story_5408": {
+        "tsr_0": [
+            "RECOMMENDED"
+        ]
+    },
+    "story_5454": {
+        "tsr_0": [
+            "The Fountain of the Eagle"
+        ]
+    },
+    "story_5878": {
+        "tsr_0": [
+            "Enchanting at any time of the year, the Pontifical Villas of Castel Gandolfo are a unique balance between nature and art. Come appreciate the treasures that the Gardens of the Pontifical Villas offer. Together with Villa Cybo and Villa Barberini, the Castel Gandolfo Residence forms the complex of Pontifical Villas with their splendid gardens and marvelous park.",
+            "Admire the Apostolic Palace, which for centuries was used as a summer residence of the Popes, and is now a museum. Take a journey through time as you admire the paintings, the relics, the liturgical garb and the uniforms."
+        ]
+    },
+    "story_6383": {
+        "tsr_0": [
+            "RECOMMENDED"
+        ]
+    },
+    "story_6290": {
+        "tsr_0": [
+            "Villa Barberini Gardens"
+        ]
+    },
+    "story_6313": {
+        "tsr_0": [
+            "Roman Amphitheater"
+        ]
+    },
+    "story_6336": {
+        "tsr_0": [
+            "Belvedere Gardens"
+        ]
+    },
+    "story_6359": {
+        "tsr_0": [
+            "Magnolia Garden"
+        ]
+    },
+    "story_6570": {
+        "tsr_0": [
+            "BASILICA"
+        ]
+    },
+    "story_6614": {
+        "tsr_0": [
+            "The magnificent 18th century façade by Carlo Maderno and the Colonnade by Bernini symbolically embrace pilgrims arriving in the Eternal City. The embrace of Saint Peter's Basilica welcomes you for your visit as you come and discover the endless history of faith and charitable works."
+        ],
+        "tsr_1": [
+            "Admire not only the magnificence of the building and the beauty of the artwork, but come follow along a path of faith and spirituality. As you walk through the naves of the Basilica, stop to visit the side chapels and listen to the Gospel message that the works of art convey. As for example Michelangelo's Pietà, which not only is a masterpiece of all time, but also assists us in contemplating the Paschal mystery."
+        ]
+    },
+    "story_6929": {
+        "tsr_0": [
+            "ITINERARY"
+        ]
+    },
+    "story_7306": {
+        "tsr_0": [
+            "COMPLEX "
+        ]
+    },
+    "story_7350": {
+        "tsr_0": [
+            "The Basilica of Saint John Lateran, defined “Mater et Caput” of all the churches in Rome and in the world, is the Cathedral of Rome and the episcopal seat of the Holy Father."
+        ],
+        "tsr_1": [
+            "You'll discover the Lateran Complex, which comprehends more than one place of great interest: the Basilica and the Cloister, the Baptistery, and the Holy Stairs with the “Sancta Sanctorum” Papal Chapel."
+        ],
+        "tsr_2": [
+            "Discovery the beauty and the history of one of the most evocative places in Rome!"
+        ]
+    },
+    "story_7372": {
+        "tsr_0": [
+            "Enrich your experience"
+        ]
+    },
+    "story_7633": {
+        "tsr_0": [
+            "RECOMMENDED"
+        ]
+    },
+    "story_7678": {
+        "tsr_0": [
+            "Cloister"
+        ]
+    },
+    "story_7745": {
+        "tsr_0": [
+            "Museum of the Treasury"
+        ]
+    },
+    "story_8092": {
+        "tsr_0": [
+            "OF SANTA MARIA IN VIA LATA"
+        ]
+    },
+    "story_8114": {
+        "tsr_0": [
+            "The Basilica Santa Maria in via Lata preserves the memory of an important piece of the two thousand year history of Christianity in the Eternal City.",
+            "Founded atop ancient origins, the church was built over an earlier church from the 7th or 8th century, and eventually was given a baroque style. According to tradition, the Apostles Peter and Paul dwelt here during the years of their imprisonment in Rome.",
+            "In the crypt, remains of a large Roman period edifice are still visible; in the 7th century, it was transformed into a place of worship."
+        ]
+    },
+    "story_8776": {
+        "tsr_0": [
+            "The Carcer Tullianum is one of the most fascinating archeological monuments from the era of the Roman republic. It contains a wealth of art, archeology and history. It has also become a place of Christian worship, and is situated beneath the church of Saint Joseph of the Carpenters. And seeing that it faces the Roman Forum, it offers one of the most evocative views of ancient Rome. With the assistance of some of the most recent technologies, you will discover the place where, according to tradition, Saint Peter was imprisoned."
+        ]
+    },
+    "story_9144": {
+        "tsr_0": [
+            "Catacombs of Rome"
+        ]
+    },
+    "story_9401": {
+        "tsr_0": [
+            "During this visit, you will be able to admire the exceptional historical stratification, which tells us about every day life in ancient Rome and its development over time.",
+            "Carcer Tullianum: the maximum security prison of ancient Rome where enemies of state were imprisoned; Colosseum: where cruel games of Imperial Rome were held; Roman Forum: the social, commercial and religious hub of ancient Rome from the first pages of its history; Palatine Hill, place where this city was born around the middle of the eighth century BC. "
+        ]
+    },
+    "story_9427": {
+        "tsr_0": [
+            "Priority entrance"
+        ]
+    },
+    "story_6715": {
+        "tsr_0": [
+            "Guided visit Vatican Museums"
+        ]
+    },
+    "story_9896": {
+        "tsr_0": [
+            "The Catacombs of Rome are a network of tunnels carved out of tuff, at times on several levels. As you progress through this network of corridors, rooms and underground halls, you will be inevitably taken in not only by evocative scenes both from the Bible and from every day life in Rome, but also by a world of symbols, some of which are painted as frescoes, others which are carved into the stone as graffiti."
+        ]
+    },
+    "story_11546": {
+        "tsr_0": [
+            "The city of Rome is an open air museum, which you can explore in relaxation while you take in the amazing view, on board the Vatican&Rome Open Bus."
+        ],
+        "tsr_1": [
+            "An authentic journey into the heart of the City. You'll be able to hop on and off at any of the stops along the way, strategically placed in the most interesting areas of the city. A multi-language audio guide will assist in enriching your knowledge of Rome's history and of its wonders."
+        ]
+    },
+    "story_6766": {
+        "tsr_0": [
+            "Every day"
+        ]
+    },
+    "story_6788": {
+        "tsr_0": [
+            "Included in your visit"
+        ]
+    },
+    "story_7545": {
+        "tsr_0": [
+            "about 2 hours"
+        ]
+    },
+    "story_8328": {
+        "tsr_0": [
+            "Included in your visit"
+        ]
+    },
+    "story_8417": {
+        "tsr_0": [
+            "Reservations required"
+        ]
+    },
+    "story_9543": {
+        "tsr_0": [
+            "Included in your visit"
+        ]
+    },
+    "story_1751": {
+        "tsr_0": [
+            "OMNIA Vatican&Rome was born from the decades-long experience of Opera Romana Pellegrinaggi (ORP), an activity of the Diocese of Rome which was founded in 1933 to accompany Italian and foreign pilgrims along the journeys of the Spirit in Italy and around the world, offering adequate spiritual and technical-organizational assistance."
+        ],
+        "tsr_1": [
+            "ORP has been carrying out a precious pastoral service for over 85 years, accompanying hundreds of thousands of faithful to the shrines of Lourdes and Fatima, to the Holy Land, to Turkey, to Santiago de Compostela and to many other places and countries in Europe and in the world."
+        ]
+    },
+    "story_4098": {
+        "tsr_0": [
+            "“Rome is the capital of the world. The entire history of the world is tied to this city, and I believe I was born a second time, I believe I was truly risen, the day I set foot in Rome. Its beauties have gradually raised me up to their own heights.”"
+        ]
+    },
+    "story_11892": {
+        "tsr_0": [
+            "Omnia Vatican&Rome is the only official pass to see Rome and the Vatican"
+        ]
+    },
+    "story_11974": {
+        "tsr_0": [
+            "Omnia is the City Card of Rome and Vatican City: with museums, monuments, transportation, priority entry and a plethora of other advantages, all in a single card."
+        ]
+    },
+    "story_12304": {
+        "tsr_0": [
+            "Basilica of Saint John Lateran and Cloister, with an audio guide and entry to the Museum of the Treasury"
+        ]
+    },
+    "story_12349": {
+        "tsr_0": [
+            "Your stay in Rome can become an unforgettable experience using the Omnia Card 72 hours. In addition to offering a wide choice of Vatican&Rome services, you also get a “Rome Pass”, the card of the city of Rome that gives access to over 40 archaeological sites and museums within the city as well as to public transportation (both subway and buses)."
+        ]
+    },
+    "story_12373": {
+        "tsr_0": [
+            "Vatican Museums and Sistine Chapel"
+        ]
+    },
+    "story_12421": {
+        "tsr_0": [
+            "Entrance to Carcer Tullianum (Mamertine prison) with multimedia support"
+        ]
+    },
+    "story_13063": {
+        "tsr_0": [
+            "Experience Rome in all its nooks and crannies"
+        ]
+    },
+    "story_13170": {
+        "tsr_0": [
+            "Far from the clamor of the more famous sites, you can also discover a less well known Rome with hidden corners and alternate routes compared to the traditional ones. Take a stroll to discover hidden jewels both in and around the city center. Hear stories and untold peculiarities about churches, museums, districts, parks, basilicas, basements and terraces."
+        ]
+    },
+    "story_13469": {
+        "tsr_0": [
+            "Pantheon"
+        ]
+    },
+    "story_14508": {
+        "tsr_0": [
+            "Duration"
+        ]
+    },
+    "story_14552": {
+        "tsr_0": [
+            "Enrich your experience"
+        ]
+    },
+    "story_14988": {
+        "tsr_0": [
+            "There is no imagining Rome without the Jewish community. Already in the second century, the community had settled between Trastevere and the opposite bank, where the Ghetto was established in the 16th century. A corner of the Eternal City where the most important memories of the Roman Jewish tradition are preserved. In the Portico of Octavia we remember the Roman period, in Piazza delle Cinque Scole the synagogues the rituals of which were forged by Jews from different countries, and in front of the Great Temple we witness the vitality of today's community. We will see traces of the forced isolation that this community suffered under the Nazi-fascist persecution. A thought provoking journey that calls to mind dramatic and painful stages of history."
+        ]
+    },
+    "story_15240": {
+        "tsr_0": [
+            "Arch of Titus"
+        ]
+    },
+    "story_15562": {
+        "tsr_0": [
+            "“Nullus agenti dies longus est” - no day is long for those who work - said Seneca, and Rome has continued to work for millennia, maintaining in its traditions that uniqueness that has characterized not only its history, but also its social and urban planning. There are many streets dedicated to ancient crafts, many places where you can rediscover the flavors of both cultural and gastronomic tradition. A journey of discovery in the alleys of the center amidst art, history, Christianity, tradition and curiosity."
+        ]
+    },
+    "story_6973": {
+        "tsr_0": [
+            "Michelangelo's Pietà"
+        ]
     }
 }
