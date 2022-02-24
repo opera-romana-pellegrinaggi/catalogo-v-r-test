@@ -142,21 +142,24 @@
     "story_8476": {
         "tsr_0": [
             [
-                "Le Sedi Vatican&amp;Rome"
+                "Le Sedi Vatican&amp;Rome",
+                "…"
             ]
         ]
     },
     "story_9098": {
         "tsr_0": [
             [
-                "Le Sedi Vatican&amp;Rome"
+                "Le Sedi Vatican&amp;Rome",
+                "…"
             ]
         ]
     },
     "story_10163": {
         "tsr_0": [
             [
-                "Le Sedi Vatican&amp;Rome"
+                "Le Sedi Vatican&amp;Rome",
+                "…"
             ]
         ]
     },
@@ -185,6 +188,7 @@
     "story_26213": {
         "tsr_0": [
             [
+                "*",
                 "*"
             ]
         ]
@@ -199,6 +203,26 @@
     "story_27044": {
         "tsr_0": [
             "a partir de"
+        ]
+    },
+    "story_8754": {
+        "tsr_0": [
+            "TULLIANUM"
+        ]
+    },
+    "story_11344": {
+        "tsr_1": [
+            "Vatican&Rome"
+        ]
+    },
+    "story_11502": {
+        "tsr_0": [
+            "OPEN BUS"
+        ]
+    },
+    "story_23058": {
+        "tsr_0": [
+            "TULLIANUM"
         ]
     }
 }
